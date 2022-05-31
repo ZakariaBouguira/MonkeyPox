@@ -31,7 +31,7 @@ function fig()
                 resolution = (1920,1080),
                 ticks = :native,
                 left_margin   =  2mm,
-                right_margin	 =  12mm,
+                right_margin	 =  2mm,
                 top_margin	 =  0mm,
                 bottom_margin =  3mm,
                 yformatter = y -> round(Int64, y)
@@ -46,7 +46,7 @@ f1 = fig()
         label = "Count"
         )
     plot!(x,y1, 
-        w=4, fill = (0, 0.05, :white), 
+        w=3, fill = (0, 0.05, :white), 
         color="red",
         legend = :topleft,
         label = "MA"
@@ -73,7 +73,7 @@ function AnimNew()
                 )   
         if i ≤ length(x)
             plot(x[1:i],y1[1:i], 
-                w=4, fill = (0, 0.08, :white), 
+                w=3, fill = (0, 0.08, :white), 
                 color="red",
                 legend = false  
                 )
