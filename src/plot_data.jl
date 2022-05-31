@@ -29,7 +29,7 @@ theme(:dark)
 
 function fig()
     fig = plot(foreground_color = :transparent,
-                #background = :transparent, 
+                background = :transparent, 
                 xrotation = 45,
                 legend = false, 
                 resolution = (1920,1080),
