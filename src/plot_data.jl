@@ -43,7 +43,7 @@ f1 = fig()
         alpha=0.8, 
         color="red",
         legend = :topleft,
-        label = "Count"
+        label = "New Cases"
         )
     plot!(x,y1, 
         w=3, fill = (0, 0.05, :white), 
@@ -71,12 +71,14 @@ function AnimNew()
             plot(x[1:i],y1[1:i], 
                 w=3, fill = (0, 0.08, :white), 
                 color="red",
-                legend = false  
+                legend = :topleft,
+                label = "MA"  
                 )
         end
         bar!(date[1:i],y2[1:i],
                 alpha=0.8, color="red",
-                legend = false
+                legend = :topleft,
+                label = "New Cases"
                 )          
     end
 
@@ -89,7 +91,8 @@ function AnimTotal()
     animCases = @animate for i in 4:length(date)
             plot(date[1:i],y3[1:i],
                 w=3, fill = (0, 0.05, :white), 
-                legend = false, 
+                legend = :topleft, 
+                label = "Total Cases",
                 color="red")
     end
 
