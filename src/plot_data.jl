@@ -66,18 +66,18 @@ f2 = fig()
 
 function AnimNew()
     fig()
-    animCases = @animate for i in 1:length(date)
-        bar!(date[1:i],y2[1:i],
-                alpha=0.8, color="red",
-                legend = false
-                )   
+    animCases = @animate for i in 1:length(date) 
         if i ≤ length(x)
             plot(x[1:i],y1[1:i], 
                 w=3, fill = (0, 0.08, :white), 
                 color="red",
                 legend = false  
                 )
-        end        
+        end
+        bar!(date[1:i],y2[1:i],
+                alpha=0.8, color="red",
+                legend = false
+                )          
     end
 
     gif(animCases,"animations/NewCases.gif", fps=1)
