@@ -1,10 +1,3 @@
-cd(@__DIR__)
-cd("..")
-using Pkg; Pkg.activate("."); Pkg.instantiate()
-
-using Plots
-using Measures
-
 module GetData
 include("get_data.jl")
 export dataSet
@@ -12,6 +5,9 @@ export movingaverage
 end
 
 using .GetData
+using Plots
+using Measures
+
 #vscodedisplay(df)
 
 newInfected = dataSet.infectedNew
@@ -29,7 +25,7 @@ theme(:dark)
 
 function fig()
     fig = plot(foreground_color = :transparent,
-                background = :transparent, 
+                #background = :transparent, 
                 xrotation = 45,
                 legend = false, 
                 resolution = (1920,1080),
@@ -50,7 +46,7 @@ f1 = fig()
         label = "Count"
         )
     plot!(x,y1, 
-        w=3, fill = (0, 0.5, :red), 
+        w=4, fill = (0, 0.05, :white), 
         color="red",
         legend = :topleft,
         label = "MA"
@@ -71,18 +67,17 @@ f2 = fig()
 function AnimNew()
     fig()
     animCases = @animate for i in 1:length(date)
-            if i ≤ length(x)
-                plot(x[1:i],y1[1:i], 
-                    w=3, fill = (0, 0.08, :blue), 
-                    color="blue",
-                    legend = false  
-                    )
-            end
-            bar!(date[1:i],y2[1:i],
-                alpha=0.8, color="blue",
+        bar!(date[1:i],y2[1:i],
+                alpha=0.8, color="red",
                 legend = false
                 )   
-            
+        if i ≤ length(x)
+            plot(x[1:i],y1[1:i], 
+                w=4, fill = (0, 0.08, :white), 
+                color="red",
+                legend = false  
+                )
+        end        
     end
 
     gif(animCases,"animations/NewCases.gif", fps=1)

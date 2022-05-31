@@ -1,3 +1,7 @@
+cd(@__DIR__)
+cd("..")
+using Pkg; Pkg.activate("."); Pkg.instantiate()
+
 using DataFrames, CSV
 using Statistics: mean
 using Queryverse
