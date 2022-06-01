@@ -71,18 +71,17 @@ function AnimNew()
             plot(x[1:i],y1[1:i], 
                 w=3, fill = (0, 0.08, :white), 
                 color="red",
-                legend = :topleft,
-                label = "MA"  
+                legend = false  
                 )
         end
         bar!(date[1:i],y2[1:i],
                 alpha=0.8, color="red",
-                legend = :topleft,
-                label = "New Cases"
+                legend = false
                 )          
     end
 
     gif(animCases,"animations/NewCases.gif", fps=1)
+    gif(animCases,"animations/NewCases.mp4", fps=1)
 end
 AnimNew()
 
@@ -97,5 +96,6 @@ function AnimTotal()
     end
 
     gif(animCases,"animations/TotalCases.gif", fps=1)
+    gif(animCases,"animations/TotalCases.mp4", fps=1)
 end
 AnimTotal()
