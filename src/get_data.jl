@@ -50,8 +50,7 @@ end
 
 #Time series for all the whole world
 worldData = timeSeries(df)
-country = repeat(["World"], nrow(worldData))
-worldData.Country = country
+worldData.Country = repeat(["World"], nrow(worldData))
 worldData = order(worldData)
 
 #Time series for all the countries
@@ -59,8 +58,7 @@ gd = groupby(df, :Country)
 countriesData = DataFrame()
 for i in 1:length(gd)
     sd = timeSeries(gd[i])
-    country = repeat([gd[i].Country[1]], nrow(sd))
-    sd.Country = country
+    sd.Country = repeat([gd[i].Country[1]], nrow(sd))
     append!(countriesData,sd)
 end
 countriesData = order(countriesData)
