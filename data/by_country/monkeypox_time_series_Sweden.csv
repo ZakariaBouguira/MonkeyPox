@@ -1,4 +1,4 @@
-Country,Date,New_infected,Total_infected
+Country,Date_confirmation,New_infected,Total_infected
 Sweden,2022-05-19,1,1
 Sweden,2022-05-20,0,1
 Sweden,2022-05-21,0,1

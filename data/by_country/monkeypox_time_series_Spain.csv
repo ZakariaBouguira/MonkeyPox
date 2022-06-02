@@ -1,4 +1,4 @@
-Country,Date,New_infected,Total_infected
+Country,Date_confirmation,New_infected,Total_infected
 Spain,2022-05-18,7,7
 Spain,2022-05-19,0,7
 Spain,2022-05-20,23,30

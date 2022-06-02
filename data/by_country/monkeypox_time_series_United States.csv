@@ -1,4 +1,4 @@
-Country,Date,New_infected,Total_infected
+Country,Date_confirmation,New_infected,Total_infected
 United States,2022-05-18,1,1
 United States,2022-05-19,0,1
 United States,2022-05-20,1,2

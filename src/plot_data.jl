@@ -1,31 +1,24 @@
-module GetData
 include("get_data.jl")
-export dataSet
-export movingaverage
-end
-
-using .GetData
 using Plots
+using Statistics: mean
 using Measures
 
 #vscodedisplay(df)
 
-newInfected = dataSet.infectedNew
-totalInfected = dataSet.infectedTotal
-date = dataSet.date
+newInfected = worldData.New_infected
+totalInfected = worldData.Total_infected
+date = worldData.Date_confirmation
 
-
+movingaverage(g, n) = [i < n ? mean(g[begin+n÷2:i+n÷2]) : mean(g[i+n÷2-n+1:i]) for i in 1+n÷2:length(g)]
 y1 = movingaverage(newInfected, 7)
+x = date[1:length(y1)]
 y2 = newInfected
 y3 = totalInfected
-x = dataSet.date[1:length(y1)]
 
 gr()
 theme(:dark)
-
 function fig()
     fig = plot(foreground_color = :transparent,
-                #background = :transparent, 
                 xrotation = 45,
                 legend = false, 
                 resolution = (1920,1080),
@@ -38,6 +31,7 @@ function fig()
                 )
 end
 
+#New Infected Graph
 f1 = fig()
     bar!(date, y2,    
         alpha=0.8, 
@@ -54,16 +48,19 @@ f1 = fig()
     savefig(f1,"graphs/New_Infected.pdf")
     savefig(f1,"graphs/New_Infected.png")
 
+#Total Infected Graph
 f2 = fig()
     plot!(date,y3, 
         w=3, fill = (0, 0.05, :white), 
-        legend = false, 
+        legend = :topleft, 
+        label = "Total Cases", 
         color="red",
         xrotation=45,
         yformatter = y -> round(Int64, y))       
     savefig(f2,"graphs/Total_Infected.pdf")
     savefig(f2,"graphs/Total_Infected.png")
 
+#New Infected Animation
 function AnimNew()
     fig()
     animCases = @animate for i in 1:length(date) 
@@ -81,10 +78,10 @@ function AnimNew()
     end
 
     gif(animCases,"animations/NewCases.gif", fps=1)
-    gif(animCases,"animations/NewCases.mp4", fps=1)
 end
 AnimNew()
 
+#Total Infected Animation
 function AnimTotal()
     fig()
     animCases = @animate for i in 4:length(date)
@@ -96,6 +93,5 @@ function AnimTotal()
     end
 
     gif(animCases,"animations/TotalCases.gif", fps=1)
-    gif(animCases,"animations/TotalCases.mp4", fps=1)
 end
 AnimTotal()

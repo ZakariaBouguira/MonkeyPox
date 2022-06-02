@@ -1,4 +1,4 @@
-Country,Date,New_infected,Total_infected
+Country,Date_confirmation,New_infected,Total_infected
 World,2022-05-06,1,1
 World,2022-05-07,0,1
 World,2022-05-08,0,1
@@ -25,4 +25,4 @@ World,2022-05-28,16,415
 World,2022-05-29,15,430
 World,2022-05-30,123,553
 World,2022-05-31,66,619
-World,2022-06-01,34,653
+World,2022-06-01,81,700

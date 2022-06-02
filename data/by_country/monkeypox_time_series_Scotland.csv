@@ -1,4 +1,4 @@
-Country,Date,New_infected,Total_infected
+Country,Date_confirmation,New_infected,Total_infected
 Scotland,2022-05-23,1,1
 Scotland,2022-05-24,0,1
 Scotland,2022-05-25,0,1

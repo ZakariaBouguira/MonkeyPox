@@ -1,4 +1,4 @@
-Country,Date,New_infected,Total_infected
+Country,Date_confirmation,New_infected,Total_infected
 Germany,2022-05-19,1,1
 Germany,2022-05-20,1,2
 Germany,2022-05-21,2,4

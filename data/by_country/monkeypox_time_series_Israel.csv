@@ -1,4 +1,4 @@
-Country,Date,New_infected,Total_infected
+Country,Date_confirmation,New_infected,Total_infected
 Israel,2022-05-21,1,1
 Israel,2022-05-22,0,1
 Israel,2022-05-23,0,1

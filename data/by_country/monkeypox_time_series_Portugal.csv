@@ -1,4 +1,4 @@
-Country,Date,New_infected,Total_infected
+Country,Date_confirmation,New_infected,Total_infected
 Portugal,2022-05-17,3,3
 Portugal,2022-05-18,11,14
 Portugal,2022-05-19,9,23
@@ -14,3 +14,4 @@ Portugal,2022-05-28,0,74
 Portugal,2022-05-29,0,74
 Portugal,2022-05-30,22,96
 Portugal,2022-05-31,4,100
+Portugal,2022-06-01,19,119

@@ -1,4 +1,4 @@
-Country,Date,New_infected,Total_infected
+Country,Date_confirmation,New_infected,Total_infected
 Netherlands,2022-05-20,1,1
 Netherlands,2022-05-21,1,2
 Netherlands,2022-05-22,0,2

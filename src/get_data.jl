@@ -9,6 +9,8 @@ using Dates
 
 url = "https://raw.githubusercontent.com/globaldothealth/monkeypox/main/latest.csv"
 download(url, "data/monkeypox_data.csv")
+
+
 df = DataFrame(CSV.File("data/monkeypox_data.csv"))
 
 df = df |>
@@ -33,7 +35,7 @@ function timeSeries(df)
         push!(infectedTotal, infectedTotal[i]+infectedNew[i])
     end
     infectedTotal = infectedTotal[2:end]
-    dataSet = DataFrame(Date = dr,
+    dataSet = DataFrame(Date_confirmation = dr,
                         New_infected = infectedNew,
                         Total_infected = infectedTotal
                     )
@@ -44,7 +46,7 @@ function order(df)
     df = df |>
                  @orderby(_.Country) |>
     DataFrame
-    select!(df, [:Country, :Date, :New_infected, :Total_infected])
+    select!(df, [:Country, :Date_confirmation, :New_infected, :Total_infected])
     return df
 end
 
@@ -74,4 +76,3 @@ for i in 2:length(g)
     CSV.write("data/by_country/monkeypox_time_series_$(g[i].Country[1]).csv", g[i])
 end
 CSV.write("data/monkeypox_time_series.csv", completeData)
-movingaverage(g, n) = [i < n ? mean(g[begin+n÷2:i+n÷2]) : mean(g[i+n÷2-n+1:i]) for i in 1+n÷2:length(g)];

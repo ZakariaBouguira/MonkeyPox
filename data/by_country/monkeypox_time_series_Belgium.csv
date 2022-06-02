@@ -1,4 +1,4 @@
-Country,Date,New_infected,Total_infected
+Country,Date_confirmation,New_infected,Total_infected
 Belgium,2022-05-19,1,1
 Belgium,2022-05-20,2,3
 Belgium,2022-05-21,1,4
@@ -9,3 +9,7 @@ Belgium,2022-05-25,2,6
 Belgium,2022-05-26,0,6
 Belgium,2022-05-27,0,6
 Belgium,2022-05-28,3,9
+Belgium,2022-05-29,0,9
+Belgium,2022-05-30,0,9
+Belgium,2022-05-31,0,9
+Belgium,2022-06-01,5,14

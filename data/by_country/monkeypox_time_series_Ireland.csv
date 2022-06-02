@@ -1,5 +1,7 @@
-Country,Date,New_infected,Total_infected
+Country,Date_confirmation,New_infected,Total_infected
 Ireland,2022-05-27,1,1
 Ireland,2022-05-28,0,1
 Ireland,2022-05-29,0,1
 Ireland,2022-05-30,1,2
+Ireland,2022-05-31,0,2
+Ireland,2022-06-01,2,4
