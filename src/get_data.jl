@@ -14,7 +14,6 @@ df = DataFrame(CSV.File("data/monkeypox_data.csv"))
 df = df |>
     @filter(_.Status=="confirmed")|>
     @filter(!isna(_.Date_confirmation)) |>
-    #@orderby(_.Country) |>
     @orderby(_.Date_confirmation) |>
 DataFrame
 
@@ -49,12 +48,13 @@ function order(df)
     return df
 end
 
+#Time series for all the whole world
 worldData = timeSeries(df)
 country = repeat(["World"], nrow(worldData))
 worldData.Country = country
 worldData = order(worldData)
 
-
+#Time series for all the countries
 gd = groupby(df, :Country)
 countriesData = DataFrame()
 for i in 1:length(gd)
@@ -65,9 +65,15 @@ for i in 1:length(gd)
 end
 countriesData = order(countriesData)
 
+#Time series complete
 completeData = append!(worldData, countriesData)
-
 vscodedisplay(completeData)
 
-CSV.write("data/monkeypox_time_serie.csv", dataSet)
+#Generate and save file.csv
+g = groupby(completeData, :Country)
+CSV.write("data/global/monkeypox_time_series_$(g[1].Country[1]).csv", g[1])
+for i in 2:length(g)
+    CSV.write("data/by_country/monkeypox_time_series_$(g[i].Country[1]).csv", g[i])
+end
+CSV.write("data/monkeypox_time_series.csv", completeData)
 movingaverage(g, n) = [i < n ? mean(g[begin+n÷2:i+n÷2]) : mean(g[i+n÷2-n+1:i]) for i in 1+n÷2:length(g)];
