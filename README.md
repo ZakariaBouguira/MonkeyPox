@@ -10,16 +10,17 @@ This project aims to provide a time series updated every hour about the 2022 Mon
 
 ## New Cases
 
-![](graphs/global/New_Infected.png)<!-- -->
+![](graphs/global/New_Infected_World.png)<!-- -->
 
 
 ## Total Cases
 
-![](graphs/global/Total_Infected.png)<!-- -->
+![](graphs/global/Total_Infected_World.png)<!-- -->
 
 ##
 
 Feel free to use it in any way you want but please, 
 please push for a world without this virus and without any of the other deadly diseases. 
+
 
 ### "Living with the virus" is not a fatality. It's a lethal choice made for us!
