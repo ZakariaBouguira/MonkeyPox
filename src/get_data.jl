@@ -14,7 +14,8 @@ df = DataFrame(CSV.File("data/monkeypox_data.csv"))
 
 df = df |>
     @filter(_.Status=="confirmed")|>
-    @orderby(_.Country) |>
+    @filter(!isna(_.Date_confirmation)) |>
+    #@orderby(_.Country) |>
     @orderby(_.Date_confirmation) |>
     DataFrame
 
@@ -22,27 +23,36 @@ gd = groupby(df, :Country)
 Countries = [gd[i].Country[1] for i in 1:length(gd)]
 
 df
-l = DataFrame()
-for i in 1:length(gd)
-    sd = gd[i] |>
-    @groupby(_.Date_confirmation) |>
-    @map({Date_confirmation=key(_), Count_infected=length(_)}) |>
-    @filter(!isna(_.Date_confirmation)) |>
-    DataFrame
-    country = gd[i].Country[1].*ones(length(sd))
-    sd[:Country] = country
-    push!(l,sd)
-end
-l
-dh = groupby(dg, :Date_confirmation)
+cleanDataFrame = DataFrame()
 
-df = df |>
-    @groupby(_.Country)|>
-    DataFrame
+function groupMap(df)
+    df |>
     @groupby(_.Date_confirmation) |>
+    @orderby(_.Date_confirmation) |>
     @map({Date_confirmation=key(_), Count_infected=length(_)}) |>
-    @filter(!isna(_.Date_confirmation)) |>
+    DataFrame
+end
+
+for i in 1:length(gd)
+    sd = groupMap(gd[i])
+    country = repeat([gd[i].Country[1]], nrow(sd))
+    sd.Country = country
+    append!(cleanDataFrame,sd)
+end
+select!(cleanDataFrame, [:Country, :Date_confirmation, :Count_infected])
+cleanDataFrame = cleanDataFrame |>
+                 @orderby(_.Country) |>
+                 DataFrame
+
+vscodedisplay(cleanDataFrame)
+
+
+df = cleanDataFrame |>
+    @groupby(_.Date_confirmation) |>
+    @orderby(_.Date_confirmation) |>
+    @map({Date_confirmation=key(_), Count_infected=length(_)}) |>
     DataFrame 
+vscodedisplay(df)
 
 firstDate = df.Date_confirmation[1]
 lastDate = df.Date_confirmation[end]
@@ -50,6 +60,9 @@ dr = collect(firstDate:Dates.Day(1):lastDate)
 dic = Dict(Pair.(df.Date_confirmation, df.Count_infected))
 
 infectedNew = []
+infectedNew = [in.(dr[i], [Set(df.Date_confirmation)]) == Bool[1] ? dic[dr[i]] : 0 for i in 1:length(dr)]
+vscodedisplay(infectedNew)
+sum(infectedNew)
 for i in 1:length(dr)
     if in.(dr[i], [Set(df.Date_confirmation)]) == Bool[1]
         push!(infectedNew, dic[dr[i]])
