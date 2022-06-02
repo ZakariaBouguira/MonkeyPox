@@ -4,19 +4,9 @@ using Statistics: mean
 using Measures
 
 #vscodedisplay(df)
-
-newInfected = worldData.New_infected
-totalInfected = worldData.Total_infected
-date = worldData.Date_confirmation
-
-movingaverage(g, n) = [i < n ? mean(g[begin+n÷2:i+n÷2]) : mean(g[i+n÷2-n+1:i]) for i in 1+n÷2:length(g)]
-y1 = movingaverage(newInfected, 7)
-x = date[1:length(y1)]
-y2 = newInfected
-y3 = totalInfected
-
 gr()
 theme(:dark)
+
 function fig()
     fig = plot(foreground_color = :transparent,
                 xrotation = 45,
@@ -32,7 +22,8 @@ function fig()
 end
 
 #New Infected Graph
-f1 = fig()
+function graphNew(x,y1,date,y2)
+    f = fig()
     bar!(date, y2,    
         alpha=0.8, 
         color="red",
@@ -45,25 +36,29 @@ f1 = fig()
         legend = :topleft,
         label = "MA"
         )
-    savefig(f1,"graphs/New_Infected.pdf")
-    savefig(f1,"graphs/New_Infected.png")
+    return f    
+end
+
 
 #Total Infected Graph
-f2 = fig()
+function graphTotal(date,y3)
+    f = fig()
     plot!(date,y3, 
         w=3, fill = (0, 0.05, :white), 
         legend = :topleft, 
         label = "Total Cases", 
         color="red",
         xrotation=45,
-        yformatter = y -> round(Int64, y))       
-    savefig(f2,"graphs/Total_Infected.pdf")
-    savefig(f2,"graphs/Total_Infected.png")
+        yformatter = y -> round(Int64, y)
+        )   
+    return f    
+end
+
 
 #New Infected Animation
-function AnimNew()
+function animNew(x,y1,date,y2)
     fig()
-    animCases = @animate for i in 1:length(date) 
+    anim = @animate for i in 1:length(date) 
         if i ≤ length(x)
             plot(x[1:i],y1[1:i], 
                 w=3, fill = (0, 0.08, :white), 
@@ -76,22 +71,63 @@ function AnimNew()
                 legend = false
                 )          
     end
-
-    gif(animCases,"animations/NewCases.gif", fps=1)
+    return anim
 end
-AnimNew()
+
 
 #Total Infected Animation
-function AnimTotal()
+function animTotal(date,y3)
     fig()
-    animCases = @animate for i in 4:length(date)
+    anim = @animate for i in 1:length(date)
             plot(date[1:i],y3[1:i],
                 w=3, fill = (0, 0.05, :white), 
                 legend = :topleft, 
                 label = "Total Cases",
                 color="red")
     end
-
-    gif(animCases,"animations/TotalCases.gif", fps=1)
+    return anim
 end
-AnimTotal()
+
+
+movingaverage(g, n) = [i < n ? mean(g[begin+n÷2:i+n÷2]) : mean(g[i+n÷2-n+1:i]) for i in 1+n÷2:length(g)]
+
+function dataByGroup(sd)
+    newInfected = sd.New_infected
+    totalInfected = sd.Total_infected
+    date = sd.Date_confirmation
+
+    y1 = movingaverage(newInfected, 7)
+    x = date[1:length(y1)]
+    y2 = newInfected
+    y3 = totalInfected
+    return x, y1, date, y2, y3
+end
+
+#World Graphs and Animations
+#group = groupby(completeData, :Country)
+x, y1, date, y2, y3 = dataByGroup(group[1])
+f1 = graphNew(x,y1,date,y2)
+savefig(f1,"graphs/global/New_Infected_$(group[1].Country[1]).pdf")
+savefig(f1,"graphs/global/New_Infected_$(group[1].Country[1]).png")
+f2 = graphTotal(date,y3)
+savefig(f2,"graphs/global/Total_Infected_$(group[1].Country[1]).pdf")
+savefig(f2,"graphs/global/Total_Infected_$(group[1].Country[1]).png")
+anim1 = animNew(x,y1,date,y2)
+gif(anim1,"animations/global/NewCases_$(group[1].Country[1]).gif", fps=1)
+anim2 = animTotal(date,y3)
+gif(anim2,"animations/global/TotalCases_$(group[1].Country[1]).gif", fps=1)
+
+#Gaphs and Animations for each Country
+for i  in 2:length(group)
+    x,y1,date,y2,y3 = dataByGroup(group[i])
+    f1 = graphNew(x,y1,date,y2)
+    savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).pdf")
+    savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).png")
+    f2 = graphTotal(date,y3)
+    savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).pdf")
+    savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).png")
+    anim1 = animNew(x,y1,date,y2)
+    gif(anim1,"animations/by_country/NewCases_$(group[i].Country[1]).gif", fps=1)
+    anim2 = animTotal(date,y3)
+    gif(anim2,"animations/by_country/TotalCases_$(group[i].Country[1]).gif", fps=1)
+end

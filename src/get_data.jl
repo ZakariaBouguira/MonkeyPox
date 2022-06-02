@@ -66,13 +66,13 @@ end
 countriesData = order(countriesData)
 
 #Time series complete
-completeData = append!(worldData, countriesData)
+completeData = [worldData; countriesData]
 #vscodedisplay(completeData)
 
 #Generate and save file.csv
-g = groupby(completeData, :Country)
-CSV.write("data/global/monkeypox_time_series_$(g[1].Country[1]).csv", g[1])
-for i in 2:length(g)
-    CSV.write("data/by_country/monkeypox_time_series_$(g[i].Country[1]).csv", g[i])
+group = groupby(completeData, :Country)
+CSV.write("data/global/monkeypox_time_series_$(group[1].Country[1]).csv", group[1])
+for i in 2:length(group)
+    CSV.write("data/by_country/monkeypox_time_series_$(group[i].Country[1]).csv", group[i])
 end
-CSV.write("data/monkeypox_time_series.csv", completeData)
+CSV.write("monkeypox_time_series.csv", completeData)
