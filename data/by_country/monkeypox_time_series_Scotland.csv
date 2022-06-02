@@ -1,0 +1,11 @@
+Country,Date,New_infected,Total_infected
+Scotland,2022-05-23,1,1
+Scotland,2022-05-24,0,1
+Scotland,2022-05-25,0,1
+Scotland,2022-05-26,2,3
+Scotland,2022-05-27,0,3
+Scotland,2022-05-28,0,3
+Scotland,2022-05-29,0,3
+Scotland,2022-05-30,1,4
+Scotland,2022-05-31,0,4
+Scotland,2022-06-01,1,5

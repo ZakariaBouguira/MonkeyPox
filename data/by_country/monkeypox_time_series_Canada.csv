@@ -1,0 +1,15 @@
+Country,Date,New_infected,Total_infected
+Canada,2022-05-19,2,2
+Canada,2022-05-20,3,5
+Canada,2022-05-21,0,5
+Canada,2022-05-22,0,5
+Canada,2022-05-23,10,15
+Canada,2022-05-24,0,15
+Canada,2022-05-25,0,15
+Canada,2022-05-26,11,26
+Canada,2022-05-27,0,26
+Canada,2022-05-28,0,26
+Canada,2022-05-29,0,26
+Canada,2022-05-30,0,26
+Canada,2022-05-31,1,27
+Canada,2022-06-01,27,54

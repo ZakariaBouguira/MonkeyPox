@@ -65,7 +65,7 @@ countriesData = order(countriesData)
 
 #Time series complete
 completeData = append!(worldData, countriesData)
-vscodedisplay(completeData)
+#vscodedisplay(completeData)
 
 #Generate and save file.csv
 g = groupby(completeData, :Country)

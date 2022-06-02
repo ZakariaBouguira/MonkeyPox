@@ -1,0 +1,15 @@
+Country,Date,New_infected,Total_infected
+United States,2022-05-18,1,1
+United States,2022-05-19,0,1
+United States,2022-05-20,1,2
+United States,2022-05-21,0,2
+United States,2022-05-22,0,2
+United States,2022-05-23,0,2
+United States,2022-05-24,0,2
+United States,2022-05-25,2,4
+United States,2022-05-26,5,9
+United States,2022-05-27,3,12
+United States,2022-05-28,0,12
+United States,2022-05-29,2,14
+United States,2022-05-30,0,14
+United States,2022-05-31,5,19

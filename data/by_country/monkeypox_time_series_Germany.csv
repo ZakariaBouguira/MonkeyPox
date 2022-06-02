@@ -1,0 +1,14 @@
+Country,Date,New_infected,Total_infected
+Germany,2022-05-19,1,1
+Germany,2022-05-20,1,2
+Germany,2022-05-21,2,4
+Germany,2022-05-22,0,4
+Germany,2022-05-23,2,6
+Germany,2022-05-24,6,12
+Germany,2022-05-25,1,13
+Germany,2022-05-26,2,15
+Germany,2022-05-27,6,21
+Germany,2022-05-28,1,22
+Germany,2022-05-29,0,22
+Germany,2022-05-30,3,25
+Germany,2022-05-31,16,41

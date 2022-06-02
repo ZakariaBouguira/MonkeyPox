@@ -1,0 +1,8 @@
+Country,Date,New_infected,Total_infected
+Switzerland,2022-05-21,1,1
+Switzerland,2022-05-22,0,1
+Switzerland,2022-05-23,0,1
+Switzerland,2022-05-24,1,2
+Switzerland,2022-05-25,0,2
+Switzerland,2022-05-26,1,3
+Switzerland,2022-05-27,1,4
