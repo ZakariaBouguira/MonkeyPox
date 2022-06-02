@@ -59,7 +59,8 @@ end
 function animNew(x,y1,date,y2)
     fig()
     anim = @animate for i in 1:length(date) 
-        if i ≤ length(x)
+        
+        if i ≤ length(x) && i > 1
             plot(x[1:i],y1[1:i], 
                 w=3, fill = (0, 0.08, :white), 
                 color="red",
@@ -96,7 +97,7 @@ function dataByGroup(sd)
     totalInfected = sd.Total_infected
     date = sd.Date_confirmation
 
-    y1 = movingaverage(newInfected, 7)
+    y1 = length(newInfected)>=7 ? movingaverage(newInfected, 7) : 0
     x = date[1:length(y1)]
     y2 = newInfected
     y3 = totalInfected
