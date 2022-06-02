@@ -1,7 +1,6 @@
 cd(@__DIR__)
 cd("..")
 using Pkg; Pkg.activate("."); Pkg.instantiate()
-
 using DataFrames, CSV
 using Statistics: mean
 using Queryverse
@@ -17,71 +16,58 @@ df = df |>
     @filter(!isna(_.Date_confirmation)) |>
     #@orderby(_.Country) |>
     @orderby(_.Date_confirmation) |>
+DataFrame
+
+function timeSeries(df)
+    df= df |>
+        @groupby(_.Date_confirmation) |>
+        @orderby(_.Date_confirmation) |>
+        @map({Date_confirmation=key(_), Count_infected=length(_)}) |>
     DataFrame
+    firstDate = df.Date_confirmation[1]
+    lastDate = df.Date_confirmation[end]
+    dr = collect(firstDate:Dates.Day(1):lastDate)
+    dic = Dict(Pair.(df.Date_confirmation, df.Count_infected))
+    infectedNew = [in.(dr[i], [Set(df.Date_confirmation)]) == Bool[1] ? dic[dr[i]] : 0 for i in 1:length(dr)]
+    infectedTotal = [0]
+    for i in 1:length(infectedNew)
+        push!(infectedTotal, infectedTotal[i]+infectedNew[i])
+    end
+    infectedTotal = infectedTotal[2:end]
+    dataSet = DataFrame(Date = dr,
+                        New_infected = infectedNew,
+                        Total_infected = infectedTotal
+                    )
+    return dataSet
+end
+
+function order(df)
+    df = df |>
+                 @orderby(_.Country) |>
+    DataFrame
+    select!(df, [:Country, :Date, :New_infected, :Total_infected])
+    return df
+end
+
+worldData = timeSeries(df)
+country = repeat(["World"], nrow(worldData))
+worldData.Country = country
+worldData = order(worldData)
+
 
 gd = groupby(df, :Country)
-Countries = [gd[i].Country[1] for i in 1:length(gd)]
-
-df
-cleanDataFrame = DataFrame()
-
-function groupMap(df)
-    df |>
-    @groupby(_.Date_confirmation) |>
-    @orderby(_.Date_confirmation) |>
-    @map({Date_confirmation=key(_), Count_infected=length(_)}) |>
-    DataFrame
-end
-
+countriesData = DataFrame()
 for i in 1:length(gd)
-    sd = groupMap(gd[i])
+    sd = timeSeries(gd[i])
     country = repeat([gd[i].Country[1]], nrow(sd))
     sd.Country = country
-    append!(cleanDataFrame,sd)
+    append!(countriesData,sd)
 end
-select!(cleanDataFrame, [:Country, :Date_confirmation, :Count_infected])
-cleanDataFrame = cleanDataFrame |>
-                 @orderby(_.Country) |>
-                 DataFrame
+countriesData = order(countriesData)
 
-vscodedisplay(cleanDataFrame)
+completeData = append!(worldData, countriesData)
 
-
-df = cleanDataFrame |>
-    @groupby(_.Date_confirmation) |>
-    @orderby(_.Date_confirmation) |>
-    @map({Date_confirmation=key(_), Count_infected=length(_)}) |>
-    DataFrame 
-vscodedisplay(df)
-
-firstDate = df.Date_confirmation[1]
-lastDate = df.Date_confirmation[end]
-dr = collect(firstDate:Dates.Day(1):lastDate)
-dic = Dict(Pair.(df.Date_confirmation, df.Count_infected))
-
-infectedNew = []
-infectedNew = [in.(dr[i], [Set(df.Date_confirmation)]) == Bool[1] ? dic[dr[i]] : 0 for i in 1:length(dr)]
-vscodedisplay(infectedNew)
-sum(infectedNew)
-for i in 1:length(dr)
-    if in.(dr[i], [Set(df.Date_confirmation)]) == Bool[1]
-        push!(infectedNew, dic[dr[i]])
-    else
-        push!(infectedNew, 0)
-    end
-    
-end
-
-infectedTotal = [0]
-for i in 1:length(infectedNew)
-    push!(infectedTotal, infectedTotal[i]+infectedNew[i])
-end
-infectedTotal = infectedTotal[2:end]
-
-dataSet = DataFrame(date = dr,
-                    infectedNew = infectedNew,
-                    infectedTotal = infectedTotal
-                    )
+vscodedisplay(completeData)
 
 CSV.write("data/monkeypox_time_serie.csv", dataSet)
 movingaverage(g, n) = [i < n ? mean(g[begin+n÷2:i+n÷2]) : mean(g[i+n÷2-n+1:i]) for i in 1+n÷2:length(g)];
