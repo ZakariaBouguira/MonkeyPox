@@ -132,3 +132,23 @@ for i  in 2:length(group)
     anim2 = animTotal(date,y3)
     gif(anim2,"animations/by_country/TotalCases_$(group[i].Country[1]).gif", fps=1)
 end
+
+
+
+
+
+
+for i in 30:30
+    x,y1,date,y2,y3 = dataByGroup(group[i])
+    f1 = graphNew(x,y1,date,y2)
+    savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).pdf")
+    savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).png")
+    f2 = graphTotal(date,y3)
+    savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).pdf")
+    savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).png")
+    anim1 = animNew(x,y1,date,y2)
+    gif(anim1,"animations/by_country/NewCases_$(group[i].Country[1]).gif", fps=1)
+    anim2 = animTotal(date,y3)
+    gif(anim2,"animations/by_country/TotalCases_$(group[i].Country[1]).gif", fps=1)
+    println(i)
+end
