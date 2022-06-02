@@ -18,7 +18,25 @@ df = df |>
     @orderby(_.Date_confirmation) |>
     DataFrame
 
-    df = df |>
+gd = groupby(df, :Country)
+Countries = [gd[i].Country[1] for i in 1:length(gd)]
+
+df
+l = DataFrame()
+for i in 1:length(gd)
+    sd = gd[i] |>
+    @groupby(_.Date_confirmation) |>
+    @map({Date_confirmation=key(_), Count_infected=length(_)}) |>
+    @filter(!isna(_.Date_confirmation)) |>
+    DataFrame
+    country = gd[i].Country[1].*ones(length(sd))
+    sd[:Country] = country
+    push!(l,sd)
+end
+l
+dh = groupby(dg, :Date_confirmation)
+
+df = df |>
     @groupby(_.Country)|>
     DataFrame
     @groupby(_.Date_confirmation) |>
