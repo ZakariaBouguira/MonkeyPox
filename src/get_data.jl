@@ -14,7 +14,13 @@ df = DataFrame(CSV.File("data/monkeypox_data.csv"))
 
 df = df |>
     @filter(_.Status=="confirmed")|>
+    @orderby(_.Country) |>
     @orderby(_.Date_confirmation) |>
+    DataFrame
+
+    df = df |>
+    @groupby(_.Country)|>
+    DataFrame
     @groupby(_.Date_confirmation) |>
     @map({Date_confirmation=key(_), Count_infected=length(_)}) |>
     @filter(!isna(_.Date_confirmation)) |>
