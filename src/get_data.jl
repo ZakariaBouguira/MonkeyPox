@@ -18,6 +18,7 @@ df = df |>
     @filter(!isna(_.Date_confirmation)) |>
     @orderby(_.Date_confirmation) |>
 DataFrame
+#Remplacer tous les noms des etats de la grande bretagne par United Kingdom
 
 function timeSeries(df)
     df= df |>
@@ -26,7 +27,7 @@ function timeSeries(df)
         @map({Date_confirmation=key(_), Count_infected=length(_)}) |>
     DataFrame
     firstDate = df.Date_confirmation[1]
-    lastDate = df.Date_confirmation[end]
+    lastDate =  Dates.today() #Date d'aujourd'huui a la place
     dr = collect(firstDate:Dates.Day(1):lastDate)
     dic = Dict(Pair.(df.Date_confirmation, df.Count_infected))
     infectedNew = [in.(dr[i], [Set(df.Date_confirmation)]) == Bool[1] ? dic[dr[i]] : 0 for i in 1:length(dr)]
@@ -76,3 +77,10 @@ for i in 2:length(group)
     CSV.write("data/by_country/monkeypox_time_series_$(group[i].Country[1]).csv", group[i])
 end
 CSV.write("monkeypox_time_series.csv", completeData)
+
+todayList = DataFrame()
+for i in 1:length(group)
+    append!(todayList,DataFrame(last(group[i])))
+    #todayList = [todayList; [group[i]]]
+end
+CSV.write("monkeypox_today.csv", )
