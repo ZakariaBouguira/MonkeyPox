@@ -2,7 +2,7 @@ include("get_data.jl")
 using Plots
 using Statistics: mean
 using Measures
-
+using LaTeXStrings
 #vscodedisplay(df)
 gr()
 theme(:dark)
@@ -13,22 +13,23 @@ function fig()
                 legend = false, 
                 resolution = (1920,1080),
                 ticks = :native,
-                left_margin   =  2mm,
-                right_margin	 =  2mm,
+                left_margin   =  3mm,
+                right_margin	 =  3mm,
                 top_margin	 =  0mm,
-                bottom_margin =  3mm,
+                bottom_margin =  5mm,
                 yformatter = y -> round(Int64, y)
                 )
 end
 
 #New Infected Graph
-function graphNew(x,y1,date,y2)
+function graphNew(x,y1,date,y2,countryName)
     f = fig()
     bar!(date, y2,    
         alpha=0.8, 
         color="red",
         legend = :topleft,
-        label = "New Cases"
+        label = "New Cases",
+        title = "New Monkey Pox Cases In $countryName"
         )
     plot!(x,y1, 
         w=3, fill = (0, 0.05, :white), 
@@ -41,7 +42,7 @@ end
 
 
 #Total Infected Graph
-function graphTotal(date,y3)
+function graphTotal(date,y3,countryName)
     f = fig()
     plot!(date,y3, 
         w=3, fill = (0, 0.05, :white), 
@@ -49,14 +50,15 @@ function graphTotal(date,y3)
         label = "Total Cases", 
         color="red",
         xrotation=45,
-        yformatter = y -> round(Int64, y)
+        yformatter = y -> round(Int64, y),
+        title = "Total Monkey Pox Cases In $countryName"
         )   
     return f    
 end
 
 
 #New Infected Animation
-function animNew(x,y1,date,y2)
+function animNew(x,y1,date,y2,countryName)
     fig()
     anim = @animate for i in 1:length(date) 
         
@@ -64,7 +66,8 @@ function animNew(x,y1,date,y2)
             plot(x[1:i],y1[1:i], 
                 w=3, fill = (0, 0.08, :white), 
                 color="red",
-                legend = false  
+                legend = false,
+                title = "New Monkey Pox Cases In $countryName"          
                 )
         end
         bar!(date[1:i],y2[1:i],
@@ -77,14 +80,15 @@ end
 
 
 #Total Infected Animation
-function animTotal(date,y3)
+function animTotal(date,y3,countryName)
     fig()
     anim = @animate for i in 1:length(date)
             plot(date[1:i],y3[1:i],
                 w=3, fill = (0, 0.05, :white), 
                 legend = :topleft, 
                 label = "Total Cases",
-                color="red")
+                color="red",
+                title = "Total Monkey Pox Cases In $countryName")
     end
     return anim
 end
@@ -107,44 +111,51 @@ end
 #World Graphs and Animations
 #group = groupby(completeData, :Country)
 x, y1, date, y2, y3 = dataByGroup(group[1])
-f1 = graphNew(x,y1,date,y2)
+countryName = "The "*group[1].Country[1]
+f1 = graphNew(x,y1,date,y2,countryName)
 savefig(f1,"graphs/global/New_Infected_$(group[1].Country[1]).pdf")
 savefig(f1,"graphs/global/New_Infected_$(group[1].Country[1]).png")
-f2 = graphTotal(date,y3)
+f2 = graphTotal(date,y3,countryName)
 savefig(f2,"graphs/global/Total_Infected_$(group[1].Country[1]).pdf")
 savefig(f2,"graphs/global/Total_Infected_$(group[1].Country[1]).png")
-anim1 = animNew(x,y1,date,y2)
+anim1 = animNew(x,y1,date,y2,countryName)
 gif(anim1,"animations/global/NewCases_$(group[1].Country[1]).gif", fps=1)
-anim2 = animTotal(date,y3)
+anim2 = animTotal(date,y3,countryName)
 gif(anim2,"animations/global/TotalCases_$(group[1].Country[1]).gif", fps=1)
 
 #Gaphs and Animations for each Country
-#for i  in 2:length(group)
-#    x,y1,date,y2,y3 = dataByGroup(group[i])
-#    f1 = graphNew(x,y1,date,y2)
-#    savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).pdf")
-#    savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).png")
-#    f2 = graphTotal(date,y3)
-#    savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).pdf")
-#    savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).png")
-#    anim1 = animNew(x,y1,date,y2)
-#    gif(anim1,"animations/by_country/NewCases_$(group[i].Country[1]).gif", fps=1)
-#    anim2 = animTotal(date,y3)
-#    gif(anim2,"animations/by_country/TotalCases_$(group[i].Country[1]).gif", fps=1)
-#end
-
-#Provisory skip some country to avoid bug
-for i in [2:12;16:26;29:31]
+j=0
+for i  in 2:length(group)
+    j=i
     x,y1,date,y2,y3 = dataByGroup(group[i])
-    f1 = graphNew(x,y1,date,y2)
+    countryName = group[i].Country[1]
+    f1 = graphNew(x,y1,date,y2,countryName)
     savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).pdf")
     savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).png")
-    f2 = graphTotal(date,y3)
+    f2 = graphTotal(date,y3,countryName)
     savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).pdf")
     savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).png")
-    anim1 = animNew(x,y1,date,y2)
+    anim1 = animNew(x,y1,date,y2,countryName)
     gif(anim1,"animations/by_country/NewCases_$(group[i].Country[1]).gif", fps=1)
-    anim2 = animTotal(date,y3)
+    anim2 = animTotal(date,y3,countryName)
     gif(anim2,"animations/by_country/TotalCases_$(group[i].Country[1]).gif", fps=1)
-    println(i)
+
+end
+println(j)
+#Provisory skip some country to avoid bug
+for i in [2:17;20:31]
+    j=i
+    x,y1,date,y2,y3 = dataByGroup(group[i])
+    countryName = group[i].Country[1]
+    f1 = graphNew(x,y1,date,y2,countryName)
+    savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).pdf")
+    savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).png")
+    f2 = graphTotal(date,y3,countryName)
+    savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).pdf")
+    savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).png")
+    anim1 = animNew(x,y1,date,y2,countryName)
+    gif(anim1,"animations/by_country/NewCases_$(group[i].Country[1]).gif", fps=1)
+    anim2 = animTotal(date,y3,countryName)
+    gif(anim2,"animations/by_country/TotalCases_$(group[i].Country[1]).gif", fps=1)
+    println(j)
 end

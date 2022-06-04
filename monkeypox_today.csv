@@ -1,10 +1,10 @@
 Country,Date_confirmation,New_infected,Total_infected
-World,2022-06-04,0,899
+World,2022-06-04,1,919
 Argentina,2022-06-04,0,2
-Australia,2022-06-04,0,5
+Australia,2022-06-04,1,6
 Austria,2022-06-04,0,1
 Belgium,2022-06-04,0,17
-Canada,2022-06-04,0,61
+Canada,2022-06-04,0,80
 Czech Republic,2022-06-04,0,6
 Denmark,2022-06-04,0,2
 England,2022-06-04,0,214
