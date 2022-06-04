@@ -19,7 +19,6 @@ This project aims to provide a time series updated every hour about the 2022 Mon
 
 ##
 
-
 Feel free to use it in any way you want but please, 
 please push for a world without this virus and without any of the other deadly diseases. 
 

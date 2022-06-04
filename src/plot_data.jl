@@ -13,9 +13,9 @@ function fig()
                 legend = false, 
                 resolution = (1920,1080),
                 ticks = :native,
-                left_margin   =  3mm,
-                right_margin	 =  3mm,
-                top_margin	 =  0mm,
+                left_margin   =  4mm,
+                right_margin	 =  2mm,
+                top_margin	 =  1mm,
                 bottom_margin =  5mm,
                 yformatter = y -> round(Int64, y)
                 )
@@ -109,7 +109,7 @@ function dataByGroup(sd)
 end
 
 #World Graphs and Animations
-#group = groupby(completeData, :Country)
+#(group = groupby(completeData, :Country) from get_data.jl
 x, y1, date, y2, y3 = dataByGroup(group[1])
 countryName = "The "*group[1].Country[1]
 f1 = graphNew(x,y1,date,y2,countryName)
@@ -125,25 +125,25 @@ gif(anim2,"animations/global/TotalCases_$(group[1].Country[1]).gif", fps=1)
 
 #Gaphs and Animations for each Country
 j=0
-for i  in 2:length(group)
-    j=i
-    x,y1,date,y2,y3 = dataByGroup(group[i])
-    countryName = group[i].Country[1]
-    f1 = graphNew(x,y1,date,y2,countryName)
-    savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).pdf")
-    savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).png")
-    f2 = graphTotal(date,y3,countryName)
-    savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).pdf")
-    savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).png")
-    anim1 = animNew(x,y1,date,y2,countryName)
-    gif(anim1,"animations/by_country/NewCases_$(group[i].Country[1]).gif", fps=1)
-    anim2 = animTotal(date,y3,countryName)
-    gif(anim2,"animations/by_country/TotalCases_$(group[i].Country[1]).gif", fps=1)
+#for i  in 2:length(group)
+    #j=i
+    #x,y1,date,y2,y3 = dataByGroup(group[i])
+    #countryName = group[i].Country[1]
+    #f1 = graphNew(x,y1,date,y2,countryName)
+    #savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).pdf")
+    #savefig(f1,"graphs/by_country/New_Infected_$(group[i].Country[1]).png")
+    #f2 = graphTotal(date,y3,countryName)
+    #savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).pdf")
+    #savefig(f2,"graphs/by_country/Total_Infected_$(group[i].Country[1]).png")
+    #anim1 = animNew(x,y1,date,y2,countryName)
+    #gif(anim1,"animations/by_country/NewCases_$(group[i].Country[1]).gif", fps=1)
+    #anim2 = animTotal(date,y3,countryName)
+    #gif(anim2,"animations/by_country/TotalCases_$(group[i].Country[1]).gif", fps=1)
 
-end
+#end
 println(j)
 #Provisory skip some country to avoid bug
-for i in [2:17;20:31]
+for i in [2:16;19:29]
     j=i
     x,y1,date,y2,y3 = dataByGroup(group[i])
     countryName = group[i].Country[1]

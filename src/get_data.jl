@@ -19,6 +19,10 @@ df = df |>
     @orderby(_.Date_confirmation) |>
 DataFrame
 #Remplacer tous les noms des etats de la grande bretagne par United Kingdom
+df[!,:Country][df[!,:Country] .== "England"] .= "United Kingdom"
+df[!,:Country][df[!,:Country] .== "Wales"] .= "United Kingdom"
+df[!,:Country][df[!,:Country] .== "Scotland"] .= "United Kingdom"
+df[!,:Country][df[!,:Country] .== "Northern Ireland"] .= "United Kingdom"
 
 function timeSeries(df)
     df= df |>
