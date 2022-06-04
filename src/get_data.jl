@@ -83,4 +83,4 @@ for i in 1:length(group)
     append!(todayList,DataFrame(last(group[i])))
     #todayList = [todayList; [group[i]]]
 end
-CSV.write("monkeypox_today.csv", )
+CSV.write("monkeypox_today.csv", todayList)
