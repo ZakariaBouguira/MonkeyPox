@@ -1122,8 +1122,8 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 1121,confirmed,Quebec,,Canada,,,,2022-06-02,,,,,,,,,,,,,,,,,https://www.quebec.ca/en/health/health-issues/a-z/monkeypox,https://www.cbc.ca/news/politics/canada-reports-58-cases-monkeypox-1.6476642,2022-06-04,2022-06-04,,CAN
 1122,confirmed,Quebec,,Canada,,,,2022-06-02,,,,,,,,,,,,,,,,,https://www.quebec.ca/en/health/health-issues/a-z/monkeypox,https://www.cbc.ca/news/politics/canada-reports-58-cases-monkeypox-1.6476642,2022-06-04,2022-06-04,,CAN
 1123,confirmed,Quebec,,Canada,,,,2022-06-02,,,,,,,,,,,,,,,,,https://www.quebec.ca/en/health/health-issues/a-z/monkeypox,https://www.cbc.ca/news/politics/canada-reports-58-cases-monkeypox-1.6476642,2022-06-04,2022-06-04,,CAN
-1124,confirmed,New South Wales,Sydney,Australia,30-39,male,,2022-06-04,,N,,Y,,,traveled with 1225,1225,,Y,,,,,,,https://www.sbs.com.au/news/article/a-seventh-case-of-monkeypox-under-investigation-in-australia/u7az8fik3,,2022-06-04,2022-06-04,,AUS
-1125,suspected,New South Wales,Sydney,Australia,30-39,male,,,,N,,Y,,,traveled with 1224,1224,,Y,,,,,,,https://www.sbs.com.au/news/article/a-seventh-case-of-monkeypox-under-investigation-in-australia/u7az8fik3,,2022-06-04,2022-06-04,,AUS
+1124,confirmed,New South Wales,Sydney,Australia,30-39,male,,2022-06-04,,N,,Y,,,traveled with 1125,1125,,Y,,,,,,,https://www.sbs.com.au/news/article/a-seventh-case-of-monkeypox-under-investigation-in-australia/u7az8fik3,,2022-06-04,2022-06-04,,AUS
+1125,suspected,New South Wales,Sydney,Australia,30-39,male,,,,N,,Y,,,traveled with 1124,1124,,Y,,,,,,,https://www.sbs.com.au/news/article/a-seventh-case-of-monkeypox-under-investigation-in-australia/u7az8fik3,,2022-06-04,2022-06-04,,AUS
 1126,suspected,San Francisco; California,,United States,,,,2022-06-03,,,,Y,,,,,,Y,,,,,,,https://sf.gov/news/first-probable-case-monkeypox-identified-sf-residen,,2022-06-04,2022-06-04,,USA
 1127,discarded,,,Thailand,,,,,,,,,,,,,,,,,,,,,https://www.thephuketnews.com/suspected-monkeypox-cases-all-test-negative-84455.php,,2022-06-05,2022-06-05,,THA
 1128,discarded,,,Thailand,,,,,,,,,,,,,,,,,,,,,https://www.thephuketnews.com/suspected-monkeypox-cases-all-test-negative-84455.php,,2022-06-05,2022-06-05,,THA
@@ -1131,3 +1131,5 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 1130,discarded,,,Thailand,,,,,,,,,,,,,,,,,,,,,https://www.thephuketnews.com/suspected-monkeypox-cases-all-test-negative-84455.php,,2022-06-05,2022-06-05,,THA
 1131,discarded,,,Thailand,,,,,,,,,,,,,,,,,,,,,https://www.thephuketnews.com/suspected-monkeypox-cases-all-test-negative-84455.php,,2022-06-05,2022-06-05,,THA
 1132,discarded,,,Thailand,,,,,,,,,,,,,,,,,,,,,https://www.thephuketnews.com/suspected-monkeypox-cases-all-test-negative-84455.php,,2022-06-05,2022-06-05,,THA
+1133,suspected,Rondonia,,Brazil,,,,,,,,Y,,,,,,,,,,,,,https://www.otempo.com.br/brasil/variola-dos-macacos-sobe-para-6-o-numero-de-casos-suspeitos-no-brasil-1.2679088,,2022-06-05,2022-06-05,,BRA
+1134,suspected,Rondonia,,Brazil,,,,,,,,Y,,,,,,,,,,,,,https://www.otempo.com.br/brasil/variola-dos-macacos-sobe-para-6-o-numero-de-casos-suspeitos-no-brasil-1.2679088,,2022-06-05,2022-06-05,,BRA
