@@ -143,7 +143,7 @@ j=0
 #end
 println(j)
 #Provisory skip some country to avoid bug
-for i in [2:16;19:29]
+for i in [2:11;13:20;22:29]
     j=i
     x,y1,date,y2,y3 = dataByGroup(group[i])
     countryName = group[i].Country[1]
