@@ -96,7 +96,20 @@ end
 todayList = DataFrame()
 for i in 1:length(group)
     append!(todayList,DataFrame(last(group[i])))
+    #todayList = [todayList; [group[i]]]
 end
 CSV.write("monkeypox_today.csv", todayList)
 open("monkeypox_today.json","w") do f 
     write(f, arraytable(todayList))
+end
+
+last(group[1],2)[1,:]
+
+yesterdayList = DataFrame()
+for i in 1:length(group)
+    append!(yesterdayList,DataFrame(last(group[i],2)[1,:]))
+end
+CSV.write("monkeypox_yesterday.csv", yesterdayList)
+open("monkeypox_yesterday.json","w") do f 
+    write(f, arraytable(yesterdayList))
+end
