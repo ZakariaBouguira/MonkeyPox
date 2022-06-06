@@ -445,7 +445,7 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 444,confirmed,,Berlin,Germany,,,,2022-05-27,,,,,,,,,,,,,,,,,https://www.rbb24.de/panorama/beitrag/2022/05/berlin-affenpocken-senat-neu-faelle.html,,2022-05-27,2022-05-27,,DEU
 445,confirmed,,Berlin,Germany,,,,2022-05-27,,,,,,,,,,,,,,,,,https://www.rbb24.de/panorama/beitrag/2022/05/berlin-affenpocken-senat-neu-faelle.html,,2022-05-27,2022-05-27,,DEU
 446,discarded,San Martino Hospital,Genoa,Italy,20-24,female,,,"fever, skin lesions",Y,,Y,,,,,,Y,2022-05-27,2022-05-23,Canary Island,Spain,,,https://www.ansa.it/liguria/notizie/2022/05/27/vaiolo-scimmie-ragazza-ricoverata-primo-caso-a-genova_55c40703-4884-43b2-b5eb-cbf5c4a64de5.html,https://genova.repubblica.it/cronaca/2022/05/27/news/vaiolo_delle_scimmie_primo_caso_sospetto_in_liguria-351462611/?ref=RHTP-VS-I270680376-P23-S6-T1,2022-05-27,2022-06-01,,ITA
-447,confirmed,Buenos Aires,,Argentina,,,,2022-05-27,ulcerative lesions,,,,Y,,,,,Y,2022-05-25,,Spain,,,,https://www.argentina.gob.ar/noticias/salud-informa-que-el-resultado-de-la-muestra-pcr-tomada-por-anlis-malbran-al-primer-caso,https://www.argentina.gob.ar/noticias/salud-informa-que-dio-positivo-el-resultado-de-la-muestra-pcr-derivada-al-anlis-malbran-del,2022-05-27,2022-05-28,,ARG
+447,confirmed,Buenos Aires,,Argentina,,,,2022-05-27,ulcerative lesions,,,Y,,,,,,Y,2022-05-25,,Spain,,,,https://www.argentina.gob.ar/noticias/salud-informa-que-el-resultado-de-la-muestra-pcr-tomada-por-anlis-malbran-al-primer-caso,https://www.argentina.gob.ar/noticias/salud-informa-que-dio-positivo-el-resultado-de-la-muestra-pcr-derivada-al-anlis-malbran-del,2022-05-27,2022-05-28,,ARG
 448,confirmed,,,England,,,,2022-05-26,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-05-27,2022-05-27,,GBR
 449,confirmed,,,England,,,,2022-05-26,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-05-27,2022-05-27,,GBR
 450,confirmed,,,England,,,,2022-05-26,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-05-27,2022-05-27,,GBR
@@ -1000,9 +1000,9 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 999,confirmed,Hospital District of Helsinki and Uusimaa,Helsinki,Finland,,,,2022-06-02,,N,,,,,,,,Y,,,Europe,,,,https://yle.fi/uutiset/3-12472218,https://www.hus.fi/ajankohtaista/husissa-todettu-toinen-todennakoinen-apinarokkotartunta,2022-06-02,2022-06-02,,FIN
 1000,suspected,Saint-Marc,,Haiti,,,,,,,,,,,,,,,,,,,,,https://dominicantoday.com/dr/world/2022/06/01/haiti-investigating-a-suspected-case-of-monkeypox/,,2022-06-02,2022-06-02,,HTI
 1001,confirmed,,,Slovenia,,,,2022-06-02,,,,,,,,,,,,,,,,,https://www.nijz.si/sl/okuzbe-z-virusom-opicjih-koz-v-sloveniji,https://english.sta.si/3044830/third-case-of-monkeypox-confirmed-in-slovenia?q=monkeypox,2022-06-02,2022-06-02,,SVN
-1002,suspected,,,Uruguay,,,,,,,,Y,,,,,,Y,,,,,,,https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/casos-sospechosos-viruela-simica-tambien-llamada-viruela-del-mono,,2022-06-02,2022-06-02,,URY
-1003,suspected,,,Uruguay,,,,,,,,Y,,,,,,Y,,,,,,,https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/casos-sospechosos-viruela-simica-tambien-llamada-viruela-del-mono,,2022-06-02,2022-06-02,,URY
-1004,suspected,,,Uruguay,,,,,,,,Y,,,,,,Y,,,,,,,https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/casos-sospechosos-viruela-simica-tambien-llamada-viruela-del-mono,,2022-06-02,2022-06-02,,URY
+1002,discarded,,,Uruguay,,,,,,,,Y,,,,,,Y,,,,,,,https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/casos-sospechosos-viruela-simica-tambien-llamada-viruela-del-mono,https://blazetrends.com/three-of-the-four-suspected-cases-of-monkeypox-ruled-out-in-uruguay/,2022-06-02,2022-06-06,,URY
+1003,discarded,,,Uruguay,,,,,,,,Y,,,,,,Y,,,,,,,https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/casos-sospechosos-viruela-simica-tambien-llamada-viruela-del-mono,https://blazetrends.com/three-of-the-four-suspected-cases-of-monkeypox-ruled-out-in-uruguay/,2022-06-02,2022-06-06,,URY
+1004,discarded,,,Uruguay,,,,,,,,Y,,,,,,Y,,,,,,,https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/casos-sospechosos-viruela-simica-tambien-llamada-viruela-del-mono,https://blazetrends.com/three-of-the-four-suspected-cases-of-monkeypox-ruled-out-in-uruguay/,2022-06-02,2022-06-06,,URY
 1005,suspected,,,Uruguay,,,,,,,,Y,,,,,,Y,,,,,,,https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/casos-sospechosos-viruela-simica-tambien-llamada-viruela-del-mono,,2022-06-02,2022-06-02,,URY
 1006,confirmed,,,Latvia,,,,2022-06-03,,,,,,,,,,Y,,,,,,,https://www.reuters.com/world/europe/latvia-records-first-case-monkeypox-2022-06-03/,,2022-06-03,2022-06-03,,LVA
 1007,confirmed,New York,New York City,United States,,,,2022-06-02,,,,,,,,,,,,,,,,,https://www.health.ny.gov/diseases/communicable/zoonoses/monkeypox/,,2022-06-03,2022-06-03,,USA
@@ -1055,8 +1055,8 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 1054,confirmed,,Berlin,Germany,,,,2022-06-02,,,,,,,,,,,,,,,,,https://www.berlin.de/en/news/7544247-5559700-39-monkeypox-cases-registered-in-berlin-.en.html,https://www.berliner-zeitung.de/news/berlin-jetzt-39-faelle-von-affenpocken-9-im-krankenhaus-li.232684,2022-06-03,2022-06-03,,DEU
 1055,confirmed,,Berlin,Germany,,,,2022-06-02,,,,,,,,,,,,,,,,,https://www.berlin.de/en/news/7544247-5559700-39-monkeypox-cases-registered-in-berlin-.en.html,https://www.berliner-zeitung.de/news/berlin-jetzt-39-faelle-von-affenpocken-9-im-krankenhaus-li.232684,2022-06-03,2022-06-03,,DEU
 1056,confirmed,,Berlin,Germany,,,,2022-06-02,,,,,,,,,,,,,,,,,https://www.berlin.de/en/news/7544247-5559700-39-monkeypox-cases-registered-in-berlin-.en.html,https://www.berliner-zeitung.de/news/berlin-jetzt-39-faelle-von-affenpocken-9-im-krankenhaus-li.232684,2022-06-03,2022-06-03,,DEU
-1057,confirmed,,North-Rhine Westphalia,Germany,,,,2022-06-02,,,,,,,,,,,,,,,,,https://www.radiokiepenkerl.de/artikel/kreis-1-fall-von-affenpocken-1329990.html,,2022-06-03,2022-06-03,,DEU
-1058,confirmed,,Niedersachsen,Germany,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.hannover.de/Aus-Stadt-Region/Erster-Fall-von-Affenpocken-in-der-Region-Hannover-nachgewiesen,,2022-06-03,2022-06-03,,DEU
+1057,confirmed,North-Rhine Westphalia,,Germany,,,,2022-06-02,,,,,,,,,,,,,,,,,https://www.radiokiepenkerl.de/artikel/kreis-1-fall-von-affenpocken-1329990.html,,2022-06-03,2022-06-03,,DEU
+1058,confirmed,Niedersachsen,,Germany,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.hannover.de/Aus-Stadt-Region/Erster-Fall-von-Affenpocken-in-der-Region-Hannover-nachgewiesen,,2022-06-03,2022-06-03,,DEU
 1059,confirmed,,,Spain,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.sanidad.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/alertaMonkeypox/docs/Informe_de_situacion_MPX_20220603.,https://www.devdiscourse.com/article/health/2060482-spains-monkeypox-case-tally-rises-to-186-health-ministry-says,2022-06-03,2022-06-03,,ESP
 1060,confirmed,,,Spain,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.sanidad.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/alertaMonkeypox/docs/Informe_de_situacion_MPX_20220603.,https://www.devdiscourse.com/article/health/2060482-spains-monkeypox-case-tally-rises-to-186-health-ministry-says,2022-06-03,2022-06-03,,ESP
 1061,confirmed,,,Spain,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.sanidad.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/alertaMonkeypox/docs/Informe_de_situacion_MPX_20220603.,https://www.devdiscourse.com/article/health/2060482-spains-monkeypox-case-tally-rises-to-186-health-ministry-says,2022-06-03,2022-06-03,,ESP
@@ -1139,3 +1139,94 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 1138,discarded,Istanbul,,Turkey,,,,,,,,,,,,,,,,,,,,,https://www.hurriyetdailynews.com/tests-negative-no-monkeypox-cases-in-turkey-minister-174320,,2022-06-05,2022-06-05,,TUR
 1139,discarded,Istanbul,,Turkey,,,,,,,,,,,,,,,,,,,,,https://www.hurriyetdailynews.com/tests-negative-no-monkeypox-cases-in-turkey-minister-174320,,2022-06-05,2022-06-05,,TUR
 1140,confirmed,Aragon,Aragon,Spain,,male,,2022-06-06,,,,Y,,,,,,,,,,,,,https://www.heraldo.es/noticias/aragon/2022/06/06/el-servet-detecta-el-segundo-caso-positivo-de-viruela-del-mono-en-aragon-1579706.html?utm_medium=smm&utm_campaign=noticias&utm_source=twitter.com,,2022-06-06,2022-06-06,,ESP
+1141,suspected,,Washington DC,United States,,,,,,,,Y,,,,,,Y,,,Europe,,,,https://www.washingtonpost.com/health/2022/06/05/monkeypox-dc-cases-travel-europe/,,2022-06-06,2022-06-06,,USA
+1142,confirmed,,Brandenburg ,Germany,35-39,male,,2022-06-04,,,,,,,,,,,,,,,,,https://www.rbb24.de/panorama/beitrag/2022/06/affenpocken-brandenburg-zweiter-fall.html,,2022-06-06,2022-06-06,,DEU
+1143,confirmed,,Berlin,Germany,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,,2022-06-06,2022-06-06,,DEU
+1144,confirmed,,Berlin,Germany,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,,2022-06-06,2022-06-06,,DEU
+1145,confirmed,,Berlin,Germany,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,,2022-06-06,2022-06-06,,DEU
+1146,confirmed,,Berlin,Germany,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,,2022-06-06,2022-06-06,,DEU
+1147,confirmed,,Berlin,Germany,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,,2022-06-06,2022-06-06,,DEU
+1148,confirmed,,Berlin,Germany,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,,2022-06-06,2022-06-06,,DEU
+1149,confirmed,,Berlin,Germany,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,,2022-06-06,2022-06-06,,DEU
+1150,confirmed,,Berlin,Germany,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,,2022-06-06,2022-06-06,,DEU
+1151,confirmed,,Berlin,Germany,,,,2022-06-03,,,,,,,,,,,,,,,,,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,,2022-06-06,2022-06-06,,DEU
+1152,confirmed,North-Rhine Westphalia,Bonn,Germany,,,,2022-06-04,,,,,,,,,,,,,,,,,https://ga.de/bonn/stadt-bonn/affenpocken-in-bonn-stadt-meldet-ersten-fall-person-in-isolation_aid-70914295,,2022-06-06,2022-06-06,,DEU
+1153,confirmed,Baden-Württemberg,,Germany,,,,2022-06-04,,,,,,,,,,,,,,,,,https://www.fr.de/panorama/affenpocken-zahlen-faelle-infektionen-news-virus-deutschland-welt-europa-who-rki-zr-91583787.html ,,2022-06-06,2022-06-06,,DEU
+1154,confirmed,Baden-Württemberg,,Germany,,,,2022-06-04,,,,,,,,,,,,,,,,,https://www.fr.de/panorama/affenpocken-zahlen-faelle-infektionen-news-virus-deutschland-welt-europa-who-rki-zr-91583787.html,,2022-06-06,2022-06-06,,DEU
+1155,confirmed,Baden-Württemberg,,Germany,,,,2022-06-04,,,,,,,,,,,,,,,,,https://www.fr.de/panorama/affenpocken-zahlen-faelle-infektionen-news-virus-deutschland-welt-europa-who-rki-zr-91583787.html,,2022-06-06,2022-06-06,,DEU
+1156,confirmed,,,Scotland,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1157,confirmed,,,Scotland,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1158,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1159,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1160,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1161,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1162,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1163,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1164,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1165,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1166,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1167,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1168,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1169,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1170,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1171,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1172,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1173,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1174,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1175,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1176,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1177,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1178,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1179,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1180,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1181,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1182,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1183,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1184,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1185,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1186,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1187,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1188,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1189,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1190,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1191,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1192,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1193,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1194,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1195,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1196,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1197,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1198,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1199,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1200,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1201,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1202,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1203,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1204,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1205,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1206,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1207,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1208,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1209,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1210,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1211,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1212,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1213,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1214,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1215,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1216,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1217,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1218,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1219,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1220,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1221,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1222,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1223,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1224,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1225,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1226,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1227,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1228,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1229,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1230,confirmed,,,England,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
+1231,confirmed,,,Wales,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-06,2022-06-06,,GBR
