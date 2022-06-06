@@ -93,7 +93,7 @@ for i in 1:nrow(todayList)
     todayList.Index = repeat(i, nrow(todayList))
 end
 vscodedisplay(todayList)
-j=objecttable(todayList)
-open("foo.json","w") do f 
+j=arraytable(todayList)
+open("foo2.json","w") do f 
     write(f, j) 
 end
