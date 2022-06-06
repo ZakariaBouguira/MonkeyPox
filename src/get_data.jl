@@ -84,7 +84,7 @@ end
 
 for i in 2:length(group)
     CSV.write("data/by_country/monkeypox_time_series_$(group[i].Country[1]).csv", group[i])
-    open("data/global/monkeypox_time_series_$(group[i].Country[1]).json","w") do f 
+    open("data/by_country/monkeypox_time_series_$(group[i].Country[1]).json","w") do f 
         write(f, arraytable(group[i])) 
     end
 end
