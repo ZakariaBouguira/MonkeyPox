@@ -5,6 +5,7 @@ using DataFrames, CSV
 using Statistics: mean
 using Queryverse
 using Dates
+using JSONTables
 
 
 url = "https://raw.githubusercontent.com/globaldothealth/monkeypox/main/latest.csv"
@@ -88,3 +89,7 @@ for i in 1:length(group)
     #todayList = [todayList; [group[i]]]
 end
 CSV.write("monkeypox_today.csv", todayList)
+j=objecttable(todayList)
+open("foo.json","w") do f 
+    write(f, j) 
+end
