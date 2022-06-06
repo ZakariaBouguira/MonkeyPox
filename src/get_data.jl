@@ -89,6 +89,10 @@ for i in 1:length(group)
     #todayList = [todayList; [group[i]]]
 end
 CSV.write("monkeypox_today.csv", todayList)
+for i in 1:nrow(todayList)
+    todayList.Index = repeat(i, nrow(todayList))
+end
+vscodedisplay(todayList)
 j=objecttable(todayList)
 open("foo.json","w") do f 
     write(f, j) 
