@@ -78,22 +78,25 @@ completeData = [worldData; countriesData]
 #Generate and save file.csv
 group = groupby(completeData, :Country)
 CSV.write("data/global/monkeypox_time_series_$(group[1].Country[1]).csv", group[1])
+open("data/global/monkeypox_time_series_$(group[1].Country[1]).json","w") do f 
+    write(f, arraytable(group[1])) 
+end
+
 for i in 2:length(group)
     CSV.write("data/by_country/monkeypox_time_series_$(group[i].Country[1]).csv", group[i])
+    open("data/global/monkeypox_time_series_$(group[i].Country[1]).json","w") do f 
+        write(f, arraytable(group[i])) 
+    end
 end
 CSV.write("monkeypox_time_series.csv", completeData)
+open("monkeypox_time_series.json","w") do f 
+    write(f, arraytable(completeData)) 
+end
 
 todayList = DataFrame()
 for i in 1:length(group)
     append!(todayList,DataFrame(last(group[i])))
-    #todayList = [todayList; [group[i]]]
 end
 CSV.write("monkeypox_today.csv", todayList)
-for i in 1:nrow(todayList)
-    todayList.Index = repeat(i, nrow(todayList))
-end
-vscodedisplay(todayList)
-j=arraytable(todayList)
-open("foo2.json","w") do f 
-    write(f, j) 
-end
+open("monkeypox_today.json","w") do f 
+    write(f, arraytable(todayList))
