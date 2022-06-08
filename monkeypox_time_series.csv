@@ -27,12 +27,12 @@ World,2022-05-30,123,553
 World,2022-05-31,66,619
 World,2022-06-01,83,702
 World,2022-06-02,125,827
-World,2022-06-03,93,920
-World,2022-06-04,7,927
-World,2022-06-05,0,927
-World,2022-06-06,112,1039
-World,2022-06-07,71,1110
-World,2022-06-08,0,1110
+World,2022-06-03,94,921
+World,2022-06-04,7,928
+World,2022-06-05,0,928
+World,2022-06-06,112,1040
+World,2022-06-07,144,1184
+World,2022-06-08,11,1195
 Argentina,2022-05-27,2,2
 Argentina,2022-05-28,0,2
 Argentina,2022-05-29,0,2
@@ -123,8 +123,8 @@ Canada,2022-06-03,3,80
 Canada,2022-06-04,0,80
 Canada,2022-06-05,0,80
 Canada,2022-06-06,1,81
-Canada,2022-06-07,19,100
-Canada,2022-06-08,0,100
+Canada,2022-06-07,20,101
+Canada,2022-06-08,0,101
 Czech Republic,2022-05-24,1,1
 Czech Republic,2022-05-25,0,1
 Czech Republic,2022-05-26,4,5
@@ -211,8 +211,9 @@ Germany,2022-06-03,17,75
 Germany,2022-06-04,5,80
 Germany,2022-06-05,0,80
 Germany,2022-06-06,0,80
-Germany,2022-06-07,0,80
-Germany,2022-06-08,0,80
+Germany,2022-06-07,27,107
+Germany,2022-06-08,6,113
+Ghana,2022-06-08,5,5
 Hungary,2022-05-31,1,1
 Hungary,2022-06-01,0,1
 Hungary,2022-06-02,0,1
@@ -400,8 +401,8 @@ Spain,2022-06-03,19,181
 Spain,2022-06-04,0,181
 Spain,2022-06-05,0,181
 Spain,2022-06-06,17,198
-Spain,2022-06-07,1,199
-Spain,2022-06-08,0,199
+Spain,2022-06-07,27,225
+Spain,2022-06-08,0,225
 Sweden,2022-05-19,1,1
 Sweden,2022-05-20,0,1
 Sweden,2022-05-21,0,1
@@ -490,8 +491,8 @@ United Kingdom,2022-06-03,19,227
 United Kingdom,2022-06-04,0,227
 United Kingdom,2022-06-05,0,227
 United Kingdom,2022-06-06,76,303
-United Kingdom,2022-06-07,0,303
-United Kingdom,2022-06-08,0,303
+United Kingdom,2022-06-07,19,322
+United Kingdom,2022-06-08,0,322
 United States,2022-05-18,1,1
 United States,2022-05-19,0,1
 United States,2022-05-20,1,2
@@ -508,9 +509,9 @@ United States,2022-05-30,0,14
 United States,2022-05-31,5,19
 United States,2022-06-01,0,19
 United States,2022-06-02,4,23
-United States,2022-06-03,4,27
-United States,2022-06-04,0,27
-United States,2022-06-05,0,27
-United States,2022-06-06,1,28
-United States,2022-06-07,6,34
-United States,2022-06-08,0,34
+United States,2022-06-03,5,28
+United States,2022-06-04,0,28
+United States,2022-06-05,0,28
+United States,2022-06-06,1,29
+United States,2022-06-07,6,35
+United States,2022-06-08,0,35
