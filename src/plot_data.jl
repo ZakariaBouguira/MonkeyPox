@@ -6,6 +6,7 @@ using LaTeXStrings
 #vscodedisplay(df)
 gr()
 theme(:dark)
+ENV["GKSwstype"] ="100"
 
 function fig()
     fig = plot(foreground_color = :transparent,
