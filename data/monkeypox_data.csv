@@ -1080,7 +1080,7 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 1079,discarded,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,"https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto",,2022-06-03,2022-06-06,,,CAN
 1080,discarded,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-03,2022-06-06,,,CAN
 1081,discarded,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-03,2022-06-06,,,CAN
-1082,suspected,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-03,2022-06-03,,,CAN
+1082,discarded,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-03,2022-06-08,,,CAN
 1083,confirmed,Victoria,Melbourne,Australia,30-39,male,,2022-06-02,,N,,Y,,,,,,Y,,,United Kingdom,,,,https://www.health.vic.gov.au/health-alerts/health-warning-on-monkeypox,https://www.abc.net.au/news/2022-06-03/second-case-of-monkeypox-confirmed-in-victoria/101125718,2022-06-03,2022-06-03,,,AUS
 1084,suspected,Oruro,Challapata,Bolivia,20-24,male,,,"headache, muscle pain, skin lesions in the area of the lower and outer extremities",N,,Y,,,,,,,,,,,,,https://unitel.bo/salud/una-persona-que-viajo-al-exterior-fue-aislada-en-oruro-por-sospecha-de-contagio-de-viruela-del-mono_414606,,2022-06-03,2022-06-03,,,BOL
 1085,confirmed,île-de-France,,France,,,,2022-06-03,,,,,,,,,,Y,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-monkeypox-point-de-situation-au-3-juin-2022,,2022-06-03,2022-06-03,,,FRA
@@ -1235,8 +1235,8 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 1234,confirmed,Basque Country,,Spain,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.sanidad.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/alertaMonkeypox/docs/Informe_de_situacion_MPX_20220606.pdf,,2022-06-06,2022-06-06,,,ESP
 1235,confirmed,Basque Country,,Spain,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.sanidad.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/alertaMonkeypox/docs/Informe_de_situacion_MPX_20220606.pdf,,2022-06-06,2022-06-06,,,ESP
 1236,confirmed,Basque Country,,Spain,,,,2022-06-06,,,,,,,,,,,,,,,,,https://www.sanidad.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/alertaMonkeypox/docs/Informe_de_situacion_MPX_20220606.pdf,,2022-06-06,2022-06-06,,,ESP
-1237,suspected,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-06,2022-06-06,,,CAN
-1238,suspected,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-06,2022-06-06,,,CAN
+1237,discarded,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-06,2022-06-08,,,CAN
+1238,discarded,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-06,2022-06-08,,,CAN
 1239,suspected,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-06,2022-06-06,,,CAN
 1240,suspected,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-06,2022-06-06,,,CAN
 1241,suspected,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-06,2022-06-06,,,CAN
@@ -1515,3 +1515,36 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 1514,suspected,,,Ghana,,,,,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,,2022-06-08,2022-06-08,,,GHA
 1515,suspected,,,Ghana,,,,,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,,2022-06-08,2022-06-08,,,GHA
 1516,suspected,,,Ghana,,,,,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,,2022-06-08,2022-06-08,,,GHA
+1517,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1518,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1519,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1520,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1521,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1522,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1523,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1524,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1525,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1526,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1527,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1528,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1529,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1530,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1531,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1532,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1533,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1534,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1535,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1536,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1537,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1538,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1539,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1540,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1541,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
+1542,confirmed,"Halton, Ontario",Halton,Canada,,,,2022-06-08,,,,Y,,,,,,,,,,,,,https://www.halton.ca/The-Region/News/2022/Halton-Region-Public-Health-confirms-first-case-of,,2022-06-08,2022-06-08,,,CAN
+1543,confirmed,,Flanders,Belgium,,,,,,,,,,,,,,,,,,,,,,,,,,,BEL
+1544,confirmed,,Flanders,Belgium,,,,,,,,,,,,,,,,,,,,,,,,,,,BEL
+1545,confirmed,,Flanders,Belgium,,,,,,,,,,,,,,,,,,,,,,,,,,,BEL
+1546,confirmed,,Flanders,Belgium,,,,,,,,,,,,,,,,,,,,,,,,,,,BEL
+1547,confirmed,,Flanders,Belgium,,,,,,,,,,,,,,,,,,,,,,,,,,,BEL
+1548,confirmed,,,Belgium,,,,,,,,,,,,,,,,,,,,,,,,,,,BEL
+1549,confirmed,,,Belgium,,,,,,,,,,,,,,,,,,,,,,,,,,,BEL
