@@ -118,9 +118,9 @@ savefig(f1,"graphs/global/New_Infected_$(group[1].Country[1]).png")
 f2 = graphTotal(date,y3,countryName)
 savefig(f2,"graphs/global/Total_Infected_$(group[1].Country[1]).pdf")
 savefig(f2,"graphs/global/Total_Infected_$(group[1].Country[1]).png")
-anim1 = animNew(x,y1,date,y2,countryName)
+anim1 = animNew(x,y1,date[1:end-1],y2[1:end-1],countryName)
 gif(anim1,"animations/global/NewCases_$(group[1].Country[1]).gif", fps=1)
-anim2 = animTotal(date,y3,countryName)
+anim2 = animTotal(date[1:end-1],y3[1:end-1],countryName)
 gif(anim2,"animations/global/TotalCases_$(group[1].Country[1]).gif", fps=1)
 
 #Gaphs and Animations for each Country
@@ -143,7 +143,7 @@ j=0
 #end
 println(j)
 #Provisory skip some country to avoid bug
-for i in [2:11;13:20;22:29]
+for i in [2:18;20:length(group)]
     j=i
     x,y1,date,y2,y3 = dataByGroup(group[i])
     countryName = group[i].Country[1]
