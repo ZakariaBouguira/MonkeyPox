@@ -1,5 +1,5 @@
 Country,Date_confirmation,New_infected,Total_infected
-World,2022-06-10,39,1472
+World,2022-06-10,41,1474
 Argentina,2022-06-10,0,2
 Australia,2022-06-10,0,8
 Austria,2022-06-10,0,1
@@ -29,7 +29,7 @@ Portugal,2022-06-10,0,209
 Slovenia,2022-06-10,0,6
 Spain,2022-06-10,16,275
 Sweden,2022-06-10,0,5
-Switzerland,2022-06-10,0,12
+Switzerland,2022-06-10,2,14
 United Arab Emirates,2022-06-10,0,13
 United Kingdom,2022-06-10,0,366
 United States,2022-06-10,2,47
