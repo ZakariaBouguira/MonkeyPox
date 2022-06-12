@@ -1341,7 +1341,7 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 1340,confirmed,Colorado,,United States,,,,2022-06-07,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/index.html,,2022-06-07,2022-06-07,,,USA
 1341,confirmed,Florida,,United States,,,,2022-06-07,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/index.html,,2022-06-07,2022-06-07,,,USA
 1342,confirmed,New York,,United States,,,,2022-06-07,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/index.html,,2022-06-07,2022-06-07,,,USA
-1343,confirmed,Texas,,United States,,,,2022-06-07,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/index.html,,2022-06-07,2022-06-07,,,USA
+1343,confirmed,Texas,,United States,,male,2022-05-30,2022-06-07,"cough, chills, muscle pain, pustule-like lesions",,,,,,,,,Y,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/index.html,https://www.vallartadaily.com/two-more-suspected-cases-of-monkeypox-reported-in-puerto-vallarta/,2022-06-07,2022-06-11,,,USA
 1344,suspected,Sao Paulo,Sao Paulo,Brazil,25-29,female,,,,Y,,,,,,,,,,,,,,,https://web.archive.org/web/20220607013035/https://agenciabrasil.ebc.com.br/saude/noticia/2022-06/saude-monitora-sete-casos-suspeitos-de-variola-dos-macacos,https://g1.globo.com/sp/sao-paulo/noticia/2022/06/07/cidade-de-sp-monitora-mulher-de-26-anos-com-suspeita-de-variola-dos-macacos.ghtml,2022-06-08,2022-06-09,,,BRA
 1345,suspected,"Blumenau, Santa Catarina",Blumenau,Brazil,25-29,male,2022-05-30,,"skin lesions, fever, adenomegaly",,,,,,,,,,,,,,,,https://scc10.com.br/saude/blumenau-tem-caso-suspeito-de-variola-dos-macacos/,,2022-06-08,2022-06-08,,,BRA
 1346,suspected,"Pacatuba, Ceara",Pacatuba,Brazil,30-34,,,,,,,,,,,,,,,,,,,,https://g1.globo.com/ce/ceara/noticia/2022/06/08/variola-dos-macacos-secretaria-de-saude-notifica-novo-caso-suspeito-no-ceara.ghtml,,2022-06-08,2022-06-08,,,BRA
@@ -1813,3 +1813,27 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 1812,confirmed,Basque Country,,Spain,,,,2022-06-10,,,,,,,,,,,,,,,,,https://www.sanidad.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/alertaMonkeypox/docs/Informe_de_situacion_MPX_20220610.pdf,,2022-06-10,2022-06-10,,,ESP
 1813,confirmed,,,Switzerland,,,,2022-06-10,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-11,2022-06-11,,,CHE
 1814,confirmed,,,Switzerland,,,,2022-06-10,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-11,2022-06-11,,,CHE
+1815,confirmed,Buenos Aires,,Argentina,35-39,male,2022-05-31,2022-06-09,"headache, muscle pain, back pain, vasicular rashes",,,Y,,,,,,N,,,,,,,https://www.argentina.gob.ar/noticias/salud-confirma-el-tercer-caso-de-viruela-simica-en-el-pais,,2022-06-11,2022-06-11,,,ARG
+1816,discarded,Dhaka,,Bangladesh,30-34,,,,,,,,,,,,,,,,,,,,https://www.newagebd.net/article/172902/turk-tests-negative-for-monkeypox,,2022-06-11,2022-06-11,,,BGD
+1817,suspected,Kisoro District,,Uganda,0-5,,,,,,,Y,,,,,,,,,,,,,https://www.monitor.co.ug/uganda/news/national/uganda-isolates-six-in-monkeypox-scare-3844186,,2022-06-11,2022-06-11,,,UGA
+1818,suspected,Kisoro District,,Uganda,10-14,female,,,,,,Y,,,,,,,,,,,,,https://www.monitor.co.ug/uganda/news/national/uganda-isolates-six-in-monkeypox-scare-3844186,,2022-06-11,2022-06-11,,,UGA
+1819,suspected,Kampala City,,Uganda,,,,,,,,Y,,,,,,,,,,,,,https://www.monitor.co.ug/uganda/news/national/uganda-isolates-six-in-monkeypox-scare-3844186,,2022-06-11,2022-06-11,,,UGA
+1820,suspected,Kampala City,,Uganda,,,,,,,,Y,,,,,,,,,,,,,https://www.monitor.co.ug/uganda/news/national/uganda-isolates-six-in-monkeypox-scare-3844186,,2022-06-11,2022-06-11,,,UGA
+1821,suspected,Kampala City,,Uganda,,,,,,,,Y,,,,,,,,,,,,,https://www.monitor.co.ug/uganda/news/national/uganda-isolates-six-in-monkeypox-scare-3844186,,2022-06-11,2022-06-11,,,UGA
+1822,suspected,Kampala City,,Uganda,,,,,,,,Y,,,,,,,,,,,,,https://www.monitor.co.ug/uganda/news/national/uganda-isolates-six-in-monkeypox-scare-3844186,,2022-06-11,2022-06-11,,,UGA
+1823,confirmed,,,Denmark,,,,2022-06-10,,,,,,,,,,,,,,,,,https://sum.dk/nyheder/2022/juni/skabelon-til-nyheder-pm,,2022-06-11,2022-06-11,,,DNK
+1824,confirmed,,,Denmark,,,,2022-06-10,,,,,,,,,,,,,,,,,https://sum.dk/nyheder/2022/juni/skabelon-til-nyheder-pm,,2022-06-11,2022-06-11,,,DNK
+1825,discarded,,,Cambodia,,,,,,,,,,,,,,,,,,,,,https://www.phnompenhpost.com/national/11-suspected-monkeypox-cases-all-test-negative-no-cases-found-date,,2022-06-11,2022-06-11,,,KHM
+1826,discarded,,,Cambodia,,,,,,,,,,,,,,,,,,,,,https://www.phnompenhpost.com/national/11-suspected-monkeypox-cases-all-test-negative-no-cases-found-date,,2022-06-11,2022-06-11,,,KHM
+1827,discarded,,,Cambodia,,,,,,,,,,,,,,,,,,,,,https://www.phnompenhpost.com/national/11-suspected-monkeypox-cases-all-test-negative-no-cases-found-date,,2022-06-11,2022-06-11,,,KHM
+1828,discarded,,,Cambodia,,,,,,,,,,,,,,,,,,,,,https://www.phnompenhpost.com/national/11-suspected-monkeypox-cases-all-test-negative-no-cases-found-date,,2022-06-11,2022-06-11,,,KHM
+1829,discarded,,,Cambodia,,,,,,,,,,,,,,,,,,,,,https://www.phnompenhpost.com/national/11-suspected-monkeypox-cases-all-test-negative-no-cases-found-date,,2022-06-11,2022-06-11,,,KHM
+1830,discarded,,,Cambodia,,,,,,,,,,,,,,,,,,,,,https://www.phnompenhpost.com/national/11-suspected-monkeypox-cases-all-test-negative-no-cases-found-date,,2022-06-11,2022-06-11,,,KHM
+1831,discarded,,,Cambodia,,,,,,,,,,,,,,,,,,,,,https://www.phnompenhpost.com/national/11-suspected-monkeypox-cases-all-test-negative-no-cases-found-date,,2022-06-11,2022-06-11,,,KHM
+1832,discarded,,,Cambodia,,,,,,,,,,,,,,,,,,,,,https://www.phnompenhpost.com/national/11-suspected-monkeypox-cases-all-test-negative-no-cases-found-date,,2022-06-11,2022-06-11,,,KHM
+1833,discarded,,,Cambodia,,,,,,,,,,,,,,,,,,,,,https://www.phnompenhpost.com/national/11-suspected-monkeypox-cases-all-test-negative-no-cases-found-date,,2022-06-11,2022-06-11,,,KHM
+1834,discarded,,,Cambodia,,,,,,,,,,,,,,,,,,,,,https://www.phnompenhpost.com/national/11-suspected-monkeypox-cases-all-test-negative-no-cases-found-date,,2022-06-11,2022-06-11,,,KHM
+1835,discarded,,,Cambodia,,,,,,,,,,,,,,,,,,,,,https://www.phnompenhpost.com/national/11-suspected-monkeypox-cases-all-test-negative-no-cases-found-date,,2022-06-11,2022-06-11,,,KHM
+1836,suspected,"Puerto Vallarta, Jalisco",,Mexico,40-44,male,2022-06-07,,"papules, itching",,,,,,,,,,,,,,,,https://www.vallartadaily.com/two-more-suspected-cases-of-monkeypox-reported-in-puerto-vallarta/,,2022-06-11,2022-06-11,,,MEX
+1837,suspected,"Puerto Vallarta, Jalisco",,Mexico,20-24,female,2022-05-31,,"papules, itching, fever, muscle and joint pain",,,,,,,,,,,,,,,,https://www.vallartadaily.com/two-more-suspected-cases-of-monkeypox-reported-in-puerto-vallarta/,,2022-06-11,2022-06-11,,,MEX
+1838,confirmed,,,Sweden,,,,2022-06-10,,,,,,,,,,,,,,,,,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/apkoppor-internationellt-maj-2022-//,,2022-06-11,2022-06-11,,,SWE
