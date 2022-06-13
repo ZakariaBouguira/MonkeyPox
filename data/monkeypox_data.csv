@@ -1839,5 +1839,6 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 1838,confirmed,,,Sweden,,,,2022-06-10,,,,,,,,,,,,,,,,,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/apkoppor-internationellt-maj-2022-//,,2022-06-11,2022-06-11,,,SWE
 1839,confirmed,"Vinhedo, Sao Paulo",Vinhedo,Brazil,25-29,male,,2022-06-11,skin lesions,,,Y,,,,,,Y,,,,"Spain, Portugal",,,https://cultura.uol.com.br/noticias/49775_sao-paulo-confirma-o-segundo-caso-importado-de-monkeypox.html,,2022-06-12,2022-06-12,,,BRA
 1840,discarded,,,Malawi,,,,,,,,,,,,,,,,,,,,,https://pbs.twimg.com/media/FVE575KXsAIuCWV.jpg,,2022-06-12,2022-06-12,,,MWI
-1841,confirmed,Massachusetts,,United States,,male,,,,,,Y,,,Close contact of ID 1842,,,,,,,,,,,,,,,,USA
-1842,confirmed,Massachusetts,,United States,,male,,,,,,Y,,,Close contact of ID 1841,,,,,,,,,,,,,,,,USA
+1841,confirmed,Massachusetts,,United States,,male,,,,,,Y,,,Close contact of ID 1842,,,,,,,,,,https://www.mass.gov/news/massachusetts-public-health-officials-confirm-two-additional-cases-of-monkeypox,,2022-06-12,2022-06-12,,,USA
+1842,confirmed,Massachusetts,,United States,,male,,,,,,Y,,,Close contact of ID 1841,,,,,,,,,,https://www.mass.gov/news/massachusetts-public-health-officials-confirm-two-additional-cases-of-monkeypox,,2022-06-12,2022-06-12,,,USA
+1843,confirmed,Lazio,Sabaudia,Italy,40-44,male,,2022-06-11,,Y,2022-06-08,,,,,,,,,,,,,,https://roma.repubblica.it/cronaca/2022/06/11/news/vaiolo_scimmie_infettato_maestro_di_danza_sabaudia-353420058/,https://www.latinaoggi.eu/news/cronaca/206168/vaiolo-delle-scimmie-un-contagio-a-sabaudia-ma-la-asl-rassicura,2022-06-12,2022-06-12,,,ITA
