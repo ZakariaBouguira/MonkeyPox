@@ -1,35 +1,37 @@
 Country,Date_confirmation,New_infected,Total_infected
-World,2022-06-12,0,1480
-Argentina,2022-06-12,0,3
-Australia,2022-06-12,0,8
-Austria,2022-06-12,0,1
-Belgium,2022-06-12,0,24
-Brazil,2022-06-12,0,2
-Canada,2022-06-12,0,116
-Czech Republic,2022-06-12,0,6
-Denmark,2022-06-12,0,4
-Finland,2022-06-12,0,3
-France,2022-06-12,0,91
-Germany,2022-06-12,0,165
-Ghana,2022-06-12,0,5
-Gibraltar,2022-06-12,0,1
-Greece,2022-06-12,0,1
-Hungary,2022-06-12,0,1
-Ireland,2022-06-12,0,9
-Israel,2022-06-12,0,4
-Italy,2022-06-12,0,32
-Latvia,2022-06-12,0,2
-Malta,2022-06-12,0,1
-Mexico,2022-06-12,0,1
-Morocco,2022-06-12,0,1
-Netherlands,2022-06-12,0,60
-Norway,2022-06-12,0,2
-Poland,2022-06-12,0,1
-Portugal,2022-06-12,0,209
-Slovenia,2022-06-12,0,6
-Spain,2022-06-12,0,275
-Sweden,2022-06-12,0,6
-Switzerland,2022-06-12,0,14
-United Arab Emirates,2022-06-12,0,13
-United Kingdom,2022-06-12,0,366
-United States,2022-06-12,0,47
+World,2022-06-13,35,1623
+Argentina,2022-06-13,0,3
+Australia,2022-06-13,0,8
+Austria,2022-06-13,2,3
+Belgium,2022-06-13,0,24
+Brazil,2022-06-13,0,3
+Canada,2022-06-13,7,123
+Czech Republic,2022-06-13,0,6
+Denmark,2022-06-13,0,4
+Finland,2022-06-13,0,3
+France,2022-06-13,0,91
+Germany,2022-06-13,24,189
+Ghana,2022-06-13,0,5
+Gibraltar,2022-06-13,0,1
+Greece,2022-06-13,0,1
+Hungary,2022-06-13,0,1
+Ireland,2022-06-13,0,9
+Israel,2022-06-13,0,4
+Italy,2022-06-13,0,32
+Latvia,2022-06-13,0,2
+Malta,2022-06-13,0,1
+Mexico,2022-06-13,0,1
+Morocco,2022-06-13,0,1
+Netherlands,2022-06-13,0,60
+Norway,2022-06-13,0,2
+Poland,2022-06-13,0,1
+Portugal,2022-06-13,0,209
+Romania,2022-06-13,1,1
+Slovenia,2022-06-13,1,7
+Spain,2022-06-13,0,275
+Sweden,2022-06-13,0,6
+Switzerland,2022-06-13,0,14
+United Arab Emirates,2022-06-13,0,13
+United Kingdom,2022-06-13,0,470
+United States,2022-06-13,0,49
+Venezuela,2022-06-13,0,1
