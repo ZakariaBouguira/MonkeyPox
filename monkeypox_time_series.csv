@@ -39,6 +39,7 @@ World,2022-06-11,9,1485
 World,2022-06-12,107,1592
 World,2022-06-13,58,1650
 World,2022-06-14,156,1806
+World,2022-06-15,0,1806
 Argentina,2022-05-27,2,2
 Argentina,2022-05-28,0,2
 Argentina,2022-05-29,0,2
@@ -58,6 +59,7 @@ Argentina,2022-06-11,0,3
 Argentina,2022-06-12,0,3
 Argentina,2022-06-13,0,3
 Argentina,2022-06-14,0,3
+Argentina,2022-06-15,0,3
 Australia,2022-05-20,2,2
 Australia,2022-05-21,0,2
 Australia,2022-05-22,0,2
@@ -84,6 +86,7 @@ Australia,2022-06-11,0,8
 Australia,2022-06-12,0,8
 Australia,2022-06-13,0,8
 Australia,2022-06-14,0,8
+Australia,2022-06-15,0,8
 Austria,2022-05-23,1,1
 Austria,2022-05-24,0,1
 Austria,2022-05-25,0,1
@@ -107,6 +110,7 @@ Austria,2022-06-11,0,1
 Austria,2022-06-12,0,1
 Austria,2022-06-13,2,3
 Austria,2022-06-14,0,3
+Austria,2022-06-15,0,3
 Belgium,2022-05-19,1,1
 Belgium,2022-05-20,2,3
 Belgium,2022-05-21,1,4
@@ -134,6 +138,7 @@ Belgium,2022-06-11,0,24
 Belgium,2022-06-12,0,24
 Belgium,2022-06-13,0,24
 Belgium,2022-06-14,0,24
+Belgium,2022-06-15,0,24
 Brazil,2022-06-08,1,1
 Brazil,2022-06-09,0,1
 Brazil,2022-06-10,0,1
@@ -141,6 +146,7 @@ Brazil,2022-06-11,1,2
 Brazil,2022-06-12,1,3
 Brazil,2022-06-13,0,3
 Brazil,2022-06-14,0,3
+Brazil,2022-06-15,0,3
 Canada,2022-05-19,2,2
 Canada,2022-05-20,3,5
 Canada,2022-05-21,0,5
@@ -168,6 +174,7 @@ Canada,2022-06-11,0,116
 Canada,2022-06-12,0,116
 Canada,2022-06-13,8,124
 Canada,2022-06-14,34,158
+Canada,2022-06-15,0,158
 Czech Republic,2022-05-24,1,1
 Czech Republic,2022-05-25,0,1
 Czech Republic,2022-05-26,4,5
@@ -190,6 +197,7 @@ Czech Republic,2022-06-11,0,6
 Czech Republic,2022-06-12,0,6
 Czech Republic,2022-06-13,0,6
 Czech Republic,2022-06-14,0,6
+Czech Republic,2022-06-15,0,6
 Denmark,2022-05-23,1,1
 Denmark,2022-05-24,1,2
 Denmark,2022-05-25,0,2
@@ -213,6 +221,7 @@ Denmark,2022-06-11,0,4
 Denmark,2022-06-12,0,4
 Denmark,2022-06-13,0,4
 Denmark,2022-06-14,0,4
+Denmark,2022-06-15,0,4
 Finland,2022-05-27,1,1
 Finland,2022-05-28,0,1
 Finland,2022-05-29,0,1
@@ -232,6 +241,7 @@ Finland,2022-06-11,0,3
 Finland,2022-06-12,0,3
 Finland,2022-06-13,0,3
 Finland,2022-06-14,0,3
+Finland,2022-06-15,0,3
 France,2022-05-19,1,1
 France,2022-05-20,0,1
 France,2022-05-21,0,1
@@ -259,6 +269,7 @@ France,2022-06-11,0,91
 France,2022-06-12,0,91
 France,2022-06-13,0,91
 France,2022-06-14,0,91
+France,2022-06-15,0,91
 Germany,2022-05-19,1,1
 Germany,2022-05-20,1,2
 Germany,2022-05-21,2,4
@@ -286,6 +297,7 @@ Germany,2022-06-11,0,162
 Germany,2022-06-12,1,163
 Germany,2022-06-13,25,188
 Germany,2022-06-14,40,228
+Germany,2022-06-15,0,228
 Ghana,2022-06-08,5,5
 Ghana,2022-06-09,0,5
 Ghana,2022-06-10,0,5
@@ -293,6 +305,7 @@ Ghana,2022-06-11,0,5
 Ghana,2022-06-12,0,5
 Ghana,2022-06-13,0,5
 Ghana,2022-06-14,0,5
+Ghana,2022-06-15,0,5
 Gibraltar,2022-06-01,1,1
 Gibraltar,2022-06-02,0,1
 Gibraltar,2022-06-03,0,1
@@ -307,6 +320,7 @@ Gibraltar,2022-06-11,0,1
 Gibraltar,2022-06-12,0,1
 Gibraltar,2022-06-13,0,1
 Gibraltar,2022-06-14,0,1
+Gibraltar,2022-06-15,0,1
 Greece,2022-06-08,1,1
 Greece,2022-06-09,0,1
 Greece,2022-06-10,0,1
@@ -314,6 +328,7 @@ Greece,2022-06-11,0,1
 Greece,2022-06-12,0,1
 Greece,2022-06-13,0,1
 Greece,2022-06-14,0,1
+Greece,2022-06-15,0,1
 Hungary,2022-05-31,1,1
 Hungary,2022-06-01,0,1
 Hungary,2022-06-02,0,1
@@ -329,6 +344,7 @@ Hungary,2022-06-11,0,1
 Hungary,2022-06-12,0,1
 Hungary,2022-06-13,0,1
 Hungary,2022-06-14,0,1
+Hungary,2022-06-15,0,1
 Ireland,2022-05-27,1,1
 Ireland,2022-05-28,0,1
 Ireland,2022-05-29,0,1
@@ -348,6 +364,7 @@ Ireland,2022-06-11,0,9
 Ireland,2022-06-12,0,9
 Ireland,2022-06-13,0,9
 Ireland,2022-06-14,0,9
+Ireland,2022-06-15,0,9
 Israel,2022-05-21,1,1
 Israel,2022-05-22,0,1
 Israel,2022-05-23,0,1
@@ -373,6 +390,7 @@ Israel,2022-06-11,0,4
 Israel,2022-06-12,0,4
 Israel,2022-06-13,0,4
 Israel,2022-06-14,0,4
+Israel,2022-06-15,0,4
 Italy,2022-05-19,1,1
 Italy,2022-05-20,2,3
 Italy,2022-05-21,0,3
@@ -400,6 +418,7 @@ Italy,2022-06-11,5,37
 Italy,2022-06-12,0,37
 Italy,2022-06-13,0,37
 Italy,2022-06-14,1,38
+Italy,2022-06-15,0,38
 Latvia,2022-06-03,1,1
 Latvia,2022-06-04,0,1
 Latvia,2022-06-05,0,1
@@ -412,6 +431,7 @@ Latvia,2022-06-11,0,2
 Latvia,2022-06-12,0,2
 Latvia,2022-06-13,0,2
 Latvia,2022-06-14,0,2
+Latvia,2022-06-15,0,2
 Malta,2022-05-28,1,1
 Malta,2022-05-29,0,1
 Malta,2022-05-30,0,1
@@ -430,6 +450,7 @@ Malta,2022-06-11,0,1
 Malta,2022-06-12,0,1
 Malta,2022-06-13,0,1
 Malta,2022-06-14,0,1
+Malta,2022-06-15,0,1
 Mexico,2022-05-28,1,1
 Mexico,2022-05-29,0,1
 Mexico,2022-05-30,0,1
@@ -448,6 +469,7 @@ Mexico,2022-06-11,1,2
 Mexico,2022-06-12,0,2
 Mexico,2022-06-13,0,2
 Mexico,2022-06-14,0,2
+Mexico,2022-06-15,0,2
 Morocco,2022-06-02,1,1
 Morocco,2022-06-03,0,1
 Morocco,2022-06-04,0,1
@@ -461,6 +483,7 @@ Morocco,2022-06-11,0,1
 Morocco,2022-06-12,0,1
 Morocco,2022-06-13,0,1
 Morocco,2022-06-14,0,1
+Morocco,2022-06-15,0,1
 Netherlands,2022-05-20,1,1
 Netherlands,2022-05-21,1,2
 Netherlands,2022-05-22,0,2
@@ -487,6 +510,7 @@ Netherlands,2022-06-11,0,60
 Netherlands,2022-06-12,0,60
 Netherlands,2022-06-13,0,60
 Netherlands,2022-06-14,20,80
+Netherlands,2022-06-15,0,80
 Norway,2022-05-31,1,1
 Norway,2022-06-01,1,2
 Norway,2022-06-02,0,2
@@ -502,11 +526,13 @@ Norway,2022-06-11,0,2
 Norway,2022-06-12,0,2
 Norway,2022-06-13,0,2
 Norway,2022-06-14,0,2
+Norway,2022-06-15,0,2
 Poland,2022-06-10,1,1
 Poland,2022-06-11,0,1
 Poland,2022-06-12,0,1
 Poland,2022-06-13,0,1
 Poland,2022-06-14,0,1
+Poland,2022-06-15,0,1
 Portugal,2022-05-17,3,3
 Portugal,2022-05-18,11,14
 Portugal,2022-05-19,9,23
@@ -536,8 +562,10 @@ Portugal,2022-06-11,0,209
 Portugal,2022-06-12,0,209
 Portugal,2022-06-13,0,209
 Portugal,2022-06-14,22,231
+Portugal,2022-06-15,0,231
 Romania,2022-06-13,1,1
 Romania,2022-06-14,0,1
+Romania,2022-06-15,0,1
 Slovenia,2022-05-24,1,1
 Slovenia,2022-05-25,1,2
 Slovenia,2022-05-26,0,2
@@ -560,6 +588,7 @@ Slovenia,2022-06-11,0,6
 Slovenia,2022-06-12,0,6
 Slovenia,2022-06-13,1,7
 Slovenia,2022-06-14,0,7
+Slovenia,2022-06-15,0,7
 Spain,2022-05-18,7,7
 Spain,2022-05-19,0,7
 Spain,2022-05-20,23,30
@@ -588,6 +617,7 @@ Spain,2022-06-11,0,275
 Spain,2022-06-12,0,275
 Spain,2022-06-13,0,275
 Spain,2022-06-14,38,313
+Spain,2022-06-15,0,313
 Sweden,2022-05-19,1,1
 Sweden,2022-05-20,0,1
 Sweden,2022-05-21,0,1
@@ -615,6 +645,7 @@ Sweden,2022-06-11,0,6
 Sweden,2022-06-12,0,6
 Sweden,2022-06-13,0,6
 Sweden,2022-06-14,0,6
+Sweden,2022-06-15,0,6
 Switzerland,2022-05-21,1,1
 Switzerland,2022-05-22,0,1
 Switzerland,2022-05-23,0,1
@@ -640,6 +671,7 @@ Switzerland,2022-06-11,0,14
 Switzerland,2022-06-12,0,14
 Switzerland,2022-06-13,5,19
 Switzerland,2022-06-14,1,20
+Switzerland,2022-06-15,0,20
 United Arab Emirates,2022-05-24,1,1
 United Arab Emirates,2022-05-25,0,1
 United Arab Emirates,2022-05-26,0,1
@@ -662,6 +694,7 @@ United Arab Emirates,2022-06-11,0,13
 United Arab Emirates,2022-06-12,0,13
 United Arab Emirates,2022-06-13,0,13
 United Arab Emirates,2022-06-14,0,13
+United Arab Emirates,2022-06-15,0,13
 United Kingdom,2022-05-06,1,1
 United Kingdom,2022-05-07,0,1
 United Kingdom,2022-05-08,0,1
@@ -702,6 +735,7 @@ United Kingdom,2022-06-11,0,366
 United Kingdom,2022-06-12,104,470
 United Kingdom,2022-06-13,0,470
 United Kingdom,2022-06-14,0,470
+United Kingdom,2022-06-15,0,470
 United States,2022-05-18,1,1
 United States,2022-05-19,0,1
 United States,2022-05-20,1,2
@@ -730,6 +764,8 @@ United States,2022-06-11,2,49
 United States,2022-06-12,0,49
 United States,2022-06-13,16,65
 United States,2022-06-14,0,65
+United States,2022-06-15,0,65
 Venezuela,2022-06-12,1,1
 Venezuela,2022-06-13,0,1
 Venezuela,2022-06-14,0,1
+Venezuela,2022-06-15,0,1
