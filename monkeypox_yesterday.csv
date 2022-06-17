@@ -1,5 +1,5 @@
 Country,Date_confirmation,New_infected,Total_infected
-World,2022-06-16,72,2093
+World,2022-06-16,364,2385
 Argentina,2022-06-16,0,5
 Australia,2022-06-16,1,13
 Austria,2022-06-16,0,4
@@ -9,7 +9,7 @@ Canada,2022-06-16,9,167
 Czech Republic,2022-06-16,0,6
 Denmark,2022-06-16,4,8
 Finland,2022-06-16,0,3
-France,2022-06-16,0,125
+France,2022-06-16,58,183
 Georgia,2022-06-16,0,1
 Germany,2022-06-16,24,271
 Ghana,2022-06-16,0,5
@@ -32,10 +32,10 @@ Poland,2022-06-16,0,12
 Portugal,2022-06-16,0,241
 Romania,2022-06-16,0,3
 Slovenia,2022-06-16,0,7
-Spain,2022-06-16,0,313
+Spain,2022-06-16,184,497
 Sweden,2022-06-16,0,10
 Switzerland,2022-06-16,0,28
 United Arab Emirates,2022-06-16,0,13
-United Kingdom,2022-06-16,0,524
+United Kingdom,2022-06-16,50,574
 United States,2022-06-16,16,100
 Venezuela,2022-06-16,0,1
