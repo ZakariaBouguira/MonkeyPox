@@ -3069,8 +3069,8 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 3068,confirmed,,,Switzerland,,,,2022-06-20,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-20,2022-06-20,,,CHE
 3069,confirmed,,,Switzerland,,,,2022-06-20,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-20,2022-06-20,,,CHE
 3070,confirmed,,,Switzerland,,,,2022-06-20,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-20,2022-06-20,,,CHE
-3071,suspected,Missouri,Kansas City,United States,,,,,,,,,,,,,,Y,domestic travel,,,United States,,,https://www.ntd.com/first-probable-monkeypox-cases-reported-in-missouri-indiana_796595.html,,2022-06-20,2022-06-20,,,USA
-3072,suspected,Indiana,,United States,,,,,,,,,,,,,,,,,,,,,https://www.ntd.com/first-probable-monkeypox-cases-reported-in-missouri-indiana_796595.html,,2022-06-20,2022-06-20,,,USA
+3071,confirmed,Missouri,Kansas City,United States,,,,2022-06-21,,,,,,,,,,Y,domestic travel,,,United States,,,https://www.ntd.com/first-probable-monkeypox-cases-reported-in-missouri-indiana_796595.html,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,2022-06-20,2022-06-21,,,USA
+3072,confirmed,Indiana,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.ntd.com/first-probable-monkeypox-cases-reported-in-missouri-indiana_796595.html,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,2022-06-20,2022-06-21,,,USA
 3073,confirmed,,,Denmark,,,,2022-06-20,,,,,,,,,,,,,,,,,https://sum.dk/nyheder/2022/juni/ti-tilfaelde-af-abekopper-i-danmark,,2022-06-21,2022-06-21,,,DNK
 3074,confirmed,,,Denmark,,,,2022-06-20,,,,,,,,,,,,,,,,,https://sum.dk/nyheder/2022/juni/ti-tilfaelde-af-abekopper-i-danmark,,2022-06-21,2022-06-21,,,DNK
 3075,confirmed,Araucanía Region,,Chile,,,,2022-06-20,,,,Y,,,,,,Y,,,Europe in past 3 weeks,,,PCR,https://www.minsal.cl/minsal-confirma-segundo-caso-de-viruela-del-mono-en-chile/,,2022-06-21,2022-06-21,,,CHL
@@ -3539,3 +3539,32 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 3538,suspected,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.publichealthontario.ca/-/media/Documents/M/2022/monkeypox-episummary.pdf?sc_lang=en,,2022-06-21,2022-06-21,,,CAN
 3539,suspected,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.publichealthontario.ca/-/media/Documents/M/2022/monkeypox-episummary.pdf?sc_lang=en,,2022-06-21,2022-06-21,,,CAN
 3540,suspected,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.publichealthontario.ca/-/media/Documents/M/2022/monkeypox-episummary.pdf?sc_lang=en,,2022-06-21,2022-06-21,,,CAN
+3541,confirmed,Sicily,,Italy,40-44,,2022-06-16,2022-06-21,,,,,,,,,,Y,,,,England,,,https://www.ansa.it/sicilia/notizie/2022/06/21/vaiolo-scimmie-primo-caso-in-sicilia-contagio-a-londra_c9ba32a9-ed55-471b-b4f3-b27ceb420079.html,,2022-06-21,2022-06-21,,,ITA
+3542,confirmed,,,Finland,,,,2022-06-17,,,,,,,,,,,,,,,,,https://www.is.fi/kotimaa/art-2000008899891.html,,2022-06-21,2022-06-21,,,FIN
+3543,confirmed,California,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3544,confirmed,California,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3545,confirmed,California,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3546,confirmed,California,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3547,confirmed,California,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3548,confirmed,California,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3549,confirmed,California,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3550,confirmed,California,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3551,confirmed,California,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3552,confirmed,California,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3553,confirmed,California,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3554,confirmed,California,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3555,confirmed,California,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3556,confirmed,Florida,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3557,confirmed,Florida,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3558,confirmed,Florida,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3559,confirmed,Illinois,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3560,confirmed,Illinois,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3561,confirmed,Illinois,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3562,confirmed,Illinois,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3563,confirmed,New Jersey,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3564,confirmed,New York,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3565,confirmed,Texas,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3566,confirmed,Utah,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3567,confirmed,Washington,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3568,confirmed,Indiana,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3569,confirmed,Maryland,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
