@@ -1973,7 +1973,7 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 1972,confirmed,,,England,,,,2022-06-12,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-13,2022-06-13,,,GBR
 1973,confirmed,,,England,,,,2022-06-12,,,,,,,,,,,,,,,,,https://www.gov.uk/government/news/monkeypox-cases-confirmed-in-england-latest-updates,,2022-06-13,2022-06-13,,,GBR
 1974,confirmed,Bucharest,Bucharest,Romania,25-29,male,,2022-06-13,,,,Y,,,,,,,,,,,,,https://www.reuters.com/article/health-monkeypox-romania/romania-detects-its-first-case-of-monkeypox-health-ministry-idUSL5N2XC145,,2022-06-13,2022-06-13,,,ROU
-1975,confirmed,Vienna,,Austria,,,,2022-06-13,,,,,,,,,,,,,,,,,https://www.ots.at/presseaussendung/OTS_20220613_OTS0133/gesundheitsministerium-zwei-weitere-affenpockenfaelle-in-oesterreich,,2022-06-13,2022-06-13,,,AUT
+1975,confirmed,Vienna,Vienna,Austria,,,,2022-06-13,,,,,,,,,,,,,,,,,https://www.ots.at/presseaussendung/OTS_20220613_OTS0133/gesundheitsministerium-zwei-weitere-affenpockenfaelle-in-oesterreich,,2022-06-13,2022-06-13,,,AUT
 1976,confirmed,Lower Austria,,Austria,,,,2022-06-13,,Y,,,,,,,,,,,,,,,https://www.ots.at/presseaussendung/OTS_20220613_OTS0133/gesundheitsministerium-zwei-weitere-affenpockenfaelle-in-oesterreich,,2022-06-13,2022-06-13,,,AUT
 1977,discarded,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-13,2022-06-20,,,CAN
 1978,discarded,Ontario,Toronto,Canada,,,,,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-13,2022-06-20,,,CAN
@@ -2846,12 +2846,12 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 2845,confirmed,Berlin,,Germany,,,,2022-06-17,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,2022-06-17,2022-06-20,,,DEU
 2846,confirmed,Berlin,,Germany,,,,2022-06-17,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,2022-06-17,2022-06-20,,,DEU
 2847,confirmed,Berlin,,Germany,,,,2022-06-17,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,2022-06-17,2022-06-20,,,DEU
-2848,confirmed,,Vienna,Austria,,,,2022-06-17,,N,,Y,,,,,,,,,,,,,https://www.derstandard.at/story/2000136648277/sieben-neue-faelle-von-affenpocken-in-oesterreich?ref=rss,,2022-06-17,2022-06-17,,,AUT
-2849,confirmed,,Vienna,Austria,,,,2022-06-17,,N,,Y,,,,,,,,,,,,,https://www.derstandard.at/story/2000136648277/sieben-neue-faelle-von-affenpocken-in-oesterreich?ref=rss,,2022-06-17,2022-06-17,,,AUT
-2850,confirmed,,Vienna,Austria,,,,2022-06-17,,N,,Y,,,,,,,,,,,,,https://www.derstandard.at/story/2000136648277/sieben-neue-faelle-von-affenpocken-in-oesterreich?ref=rss,,2022-06-17,2022-06-17,,,AUT
-2851,confirmed,,Vienna,Austria,,,,2022-06-17,,N,,Y,,,,,,,,,,,,,https://www.derstandard.at/story/2000136648277/sieben-neue-faelle-von-affenpocken-in-oesterreich?ref=rss,,2022-06-17,2022-06-17,,,AUT
-2852,confirmed,,Vienna,Austria,,,,2022-06-17,,N,,Y,,,,,,,,,,,,,https://www.derstandard.at/story/2000136648277/sieben-neue-faelle-von-affenpocken-in-oesterreich?ref=rss,,2022-06-17,2022-06-17,,,AUT
-2853,confirmed,,Vienna,Austria,,,,2022-06-17,,N,,Y,,,,,,,,,,,,,https://www.derstandard.at/story/2000136648277/sieben-neue-faelle-von-affenpocken-in-oesterreich?ref=rss,,2022-06-17,2022-06-17,,,AUT
+2848,confirmed,,Vienna,Austria,20-50,male,,2022-06-17,,N,,Y,,,,,,,,,,,,,https://www.derstandard.at/story/2000136648277/sieben-neue-faelle-von-affenpocken-in-oesterreich?ref=rss,,2022-06-17,2022-06-17,,,AUT
+2849,confirmed,,Vienna,Austria,20-50,male,,2022-06-17,,N,,Y,,,,,,,,,,,,,https://www.derstandard.at/story/2000136648277/sieben-neue-faelle-von-affenpocken-in-oesterreich?ref=rss,,2022-06-17,2022-06-17,,,AUT
+2850,confirmed,,Vienna,Austria,20-50,male,,2022-06-17,,N,,Y,,,,,,,,,,,,,https://www.derstandard.at/story/2000136648277/sieben-neue-faelle-von-affenpocken-in-oesterreich?ref=rss,,2022-06-17,2022-06-17,,,AUT
+2851,confirmed,,Vienna,Austria,20-50,male,,2022-06-17,,N,,Y,,,,,,,,,,,,,https://www.derstandard.at/story/2000136648277/sieben-neue-faelle-von-affenpocken-in-oesterreich?ref=rss,,2022-06-17,2022-06-17,,,AUT
+2852,confirmed,,Vienna,Austria,20-50,male,,2022-06-17,,N,,Y,,,,,,,,,,,,,https://www.derstandard.at/story/2000136648277/sieben-neue-faelle-von-affenpocken-in-oesterreich?ref=rss,,2022-06-17,2022-06-17,,,AUT
+2853,confirmed,,Vienna,Austria,20-50,male,,2022-06-17,,N,,Y,,,,,,,,,,,,,https://www.derstandard.at/story/2000136648277/sieben-neue-faelle-von-affenpocken-in-oesterreich?ref=rss,,2022-06-17,2022-06-17,,,AUT
 2854,confirmed,,,Austria,,,,2022-06-17,,,,Y,,,,,,,,,,,,,https://www.derstandard.at/story/2000136648277/sieben-neue-faelle-von-affenpocken-in-oesterreich?ref=rss,,2022-06-17,2022-06-17,,,AUT
 2855,suspected,Ontario,East Ontario,Canada,,,,,,,,,,,,,,,,,,,,,https://www.publichealthontario.ca/-/media/Documents/M/2022/monkeypox-episummary.pdf?sc_lang=en,,2022-06-17,2022-06-17,,,CAN
 2856,discarded,Ontario,Durham,Canada,,,,,,,,,,,,,,,,,,,,,https://www.publichealthontario.ca/-/media/Documents/M/2022/monkeypox-episummary.pdf?sc_lang=en,https://www.publichealthontario.ca/-/media/Documents/M/2022/monkeypox-episummary.pdf?sc_lang=en,2022-06-17,2022-06-20,,,CAN
@@ -3367,8 +3367,8 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 3366,confirmed,,,Portugal,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/304-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-21,2022-06-21,,,PRT
 3367,confirmed,,,Portugal,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/304-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-21,2022-06-21,,,PRT
 3368,suspected,,Mendoza ,Argentina,,male,,,,,,Y,,,,,,Y,,,Spain,,,,https://www.elsol.com.ar/mendoza/viruela-de-mono-detectaron-el-primer-caso-sospechoso-en-mendoza,,2022-06-21,2022-06-21,,,ARG
-3369,suspected,,,South Korea,,,,,,,,,,,,,,,,,,,,,https://n.news.naver.com/article/001/0013260602?sid=102,,2022-06-21,2022-06-21,,,KOR
-3370,suspected,,,South Korea,,,,,,,,,,,,,,,,,,,,,https://n.news.naver.com/article/001/0013260602?sid=102,,2022-06-21,2022-06-21,,,KOR
+3369,confirmed,,Incheon,South Korea,30-39,,,2022-06-22,"Headache, mild fever, sore throat, lesions",Y,2022-06-21,,,,,,,Y,2022-06-21,,,Germany,,PCR and sequencing,https://n.news.naver.com/article/001/0013260602?sid=102,https://koreajoongangdaily.joins.com/2022/06/22/national/socialAffairs/Korea-monkeypox/20220622160147771.html,2022-06-21,2022-06-22,,,KOR
+3370,discarded,,Busan,South Korea,,,,,,,,,,,,,,,2022-06-20,,,,,,https://n.news.naver.com/article/001/0013260602?sid=102,https://koreajoongangdaily.joins.com/2022/06/22/national/socialAffairs/Korea-monkeypox/20220622160147771.html,2022-06-21,2022-06-22,,,KOR
 3371,confirmed,,,Singapore,40-44,male,2022-06-14,2022-06-20,"headache, fever, skin rashes",,,Y,,,,,,,,,,,,,https://mothership.sg/2022/06/monkeypox-case-singapore/,https://www.channelnewsasia.com/singapore/monkeypox-singapore-imported-case-flight-attendant-fever-rashes-moh-2760996,2022-06-21,2022-06-21,,,SGP
 3372,confirmed,Catalonia,,Spain,,,,2022-06-20,,,,,,,,,,,,,,,,,https://www.sanidad.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/alertaMonkeypox/docs/Informe_de_situacion_MPX_20220621.pdf,,2022-06-21,2022-06-21,,,ESP
 3373,confirmed,Catalonia,,Spain,,,,2022-06-20,,,,,,,,,,,,,,,,,https://www.sanidad.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/alertaMonkeypox/docs/Informe_de_situacion_MPX_20220621.pdf,,2022-06-21,2022-06-21,,,ESP
@@ -3568,3 +3568,79 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 3567,confirmed,Washington,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
 3568,confirmed,Indiana,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
 3569,confirmed,Maryland,,United States,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-21,2022-06-21,,,USA
+3570,confirmed,Sao Paulo,,Brazil,25-29,male,,2022-06-21,,,,Y,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
+3571,confirmed,Santiago Metropolitan Region,Santiago,Chile,,,,2022-06-21,,,,Y,,,Contact of first confirmed case,,,,,,,,,PCR,https://www.minsal.cl/minsal-confirma-tercer-caso-de-viruela-del-mono-en-chile/,,2022-06-22,2022-06-22,,,CHL
+3572,confirmed,,Vorarlberg,Austria,45-49,,,2022-06-21,fever; rash,N,,Y,,,,,,Y,,,,,,,https://vorarlberg.orf.at/stories/3161776/,,2022-06-22,2022-06-22,,,AUT
+3573,confirmed,,,Denmark,,,,2022-06-22,,,,,,,,,,,,,,,,,https://sum.dk/nyheder/2022/juni/13-tilfaelde-af-abekopper-i-danmark,,2022-06-22,2022-06-22,,,DNK
+3574,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3575,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3576,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3577,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3578,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3579,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3580,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3581,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3582,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3583,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3584,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3585,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3586,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3587,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3588,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3589,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3590,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3591,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3592,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3593,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3594,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3595,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3596,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3597,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3598,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3599,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3600,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3601,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3602,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3603,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3604,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3605,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3606,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3607,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3608,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3609,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3610,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3611,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3612,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3613,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3614,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3615,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3616,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3617,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3618,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3619,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3620,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3621,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3622,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3623,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3624,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3625,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3626,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3627,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3628,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3629,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3630,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3631,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3632,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3633,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3634,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3635,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3636,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3637,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3638,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3639,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3640,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3641,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3642,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3643,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3644,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
+3645,confirmed,,,Netherlands,,,,2022-06-22,,,,,,,,,,,,,,,,,https://web.archive.org/web/20220622162137/https://www.rivm.nl/monkeypox-apenpokken,,2022-06-22,2022-06-22,,,NLD
