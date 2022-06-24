@@ -864,7 +864,7 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 863,confirmed,Ontario,Toronto,Canada,20-59,male,,2022-06-02,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,https://www.cp24.com/news/toronto-reports-3-new-confirmed-cases-of-monkeypox-1.5929959,2022-06-01,2022-06-17,https://www.cbc.ca/news/politics/public-health-monkey-pox-1.6484677,https://www.publichealthontario.ca/-/media/Documents/M/2022/monkeypox-episummary.pdf?sc_lang=en,CAN
 864,confirmed,Ontario,Toronto,Canada,20-59,male,,2022-06-03,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-01,2022-06-17,https://www.cbc.ca/news/politics/public-health-monkey-pox-1.6484677,https://www.publichealthontario.ca/-/media/Documents/M/2022/monkeypox-episummary.pdf?sc_lang=en,CAN
 865,confirmed,Ontario,Toronto,Canada,20-59,male,,2022-06-03,,,,,,,,,,,,,,,,,https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/monkeypox/?accordion=monkeypox-cases-in-toronto,,2022-06-01,2022-06-17,https://www.cbc.ca/news/politics/public-health-monkey-pox-1.6484677,https://www.publichealthontario.ca/-/media/Documents/M/2022/monkeypox-episummary.pdf?sc_lang=en,CAN
-866,suspected,Tuscany,Lucca,Italy,,,,,,,,,,,,,,,,,,,,,https://www.rainews.it/tgr/toscana/video/2022/05/tos-vaiolo-casi-sospetti-dimesso-paziente-arezzo-5e4ae2bd-be32-4e61-ab13-a6157fbe64cb.html,,2022-06-01,2022-06-01,,,ITA
+866,confirmed,Tuscany,Lucca,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.rainews.it/tgr/toscana/video/2022/05/tos-vaiolo-casi-sospetti-dimesso-paziente-arezzo-5e4ae2bd-be32-4e61-ab13-a6157fbe64cb.html,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,2022-06-01,2022-06-23,,,ITA
 867,suspected,Tuscany,Lucca,Italy,,,,,,,,,,,,,,,,,,,,,https://www.rainews.it/tgr/toscana/video/2022/05/tos-vaiolo-casi-sospetti-dimesso-paziente-arezzo-5e4ae2bd-be32-4e61-ab13-a6157fbe64cb.html,,2022-06-01,2022-06-01,,,ITA
 868,confirmed,Lombardia,Milan,Italy,,,,2022-05-31,,N,,,,,,,,Y,,,,,,,https://milano.corriere.it/notizie/cronaca/22_maggio_31/vaiolo-scimmie-lombardia-sequenziato-genoma-virus-san-matteo-pavia-ef3e1e42-e0fc-11ec-a138-4bfa3d154041.shtml,,2022-06-01,2022-06-01,,,ITA
 869,confirmed,Lombardia,Monza,Italy,,,,2022-05-31,,N,,,,,,,,Y,,,,,,,https://milano.corriere.it/notizie/cronaca/22_maggio_31/vaiolo-scimmie-lombardia-sequenziato-genoma-virus-san-matteo-pavia-ef3e1e42-e0fc-11ec-a138-4bfa3d154041.shtml,,2022-06-01,2022-06-01,,,ITA
@@ -1508,13 +1508,13 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 1507,confirmed,Berlin,,Germany,,,,2022-06-08,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html;jsessionid=032CDD8F364B6F57B14CE84AAF76792A.internet081?nn=2386228,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,2022-06-08,2022-06-09,,,DEU
 1508,confirmed,Berlin,,Germany,,,,2022-06-08,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html;jsessionid=032CDD8F364B6F57B14CE84AAF76792A.internet081?nn=2386228,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,2022-06-08,2022-06-09,,,DEU
 1509,confirmed,Berlin ,,Germany,,,,2022-06-08,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html;jsessionid=032CDD8F364B6F57B14CE84AAF76792A.internet081?nn=2386228,https://www.berlin.de/sen/wgpg/service/oft-gesucht/artikel.1210318.php,2022-06-08,2022-06-09,,,DEU
-1510,suspected,,,Ghana,,,,,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,,2022-06-08,2022-06-08,,,GHA
-1511,suspected,,,Ghana,,,,,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,,2022-06-08,2022-06-08,,,GHA
-1512,suspected,,,Ghana,,,,,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,,2022-06-08,2022-06-08,,,GHA
-1513,suspected,,,Ghana,,,,,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,,2022-06-08,2022-06-08,,,GHA
-1514,suspected,,,Ghana,,,,,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,,2022-06-08,2022-06-08,,,GHA
-1515,suspected,,,Ghana,,,,,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,,2022-06-08,2022-06-08,,,GHA
-1516,suspected,,,Ghana,,,,,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,,2022-06-08,2022-06-08,,,GHA
+1510,confirmed,,,Ghana,,,,2022-06-14,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,https://theheraldghana.com/monkeypox-cases-shoot-up-to-18-ghs/,2022-06-08,2022-06-23,,,GHA
+1511,confirmed,,,Ghana,,,,2022-06-14,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,https://theheraldghana.com/monkeypox-cases-shoot-up-to-18-ghs/,2022-06-08,2022-06-23,,,GHA
+1512,confirmed,,,Ghana,,,,2022-06-14,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,https://theheraldghana.com/monkeypox-cases-shoot-up-to-18-ghs/,2022-06-08,2022-06-23,,,GHA
+1513,confirmed,,,Ghana,,,,2022-06-14,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,https://theheraldghana.com/monkeypox-cases-shoot-up-to-18-ghs/,2022-06-08,2022-06-23,,,GHA
+1514,confirmed,,,Ghana,,,,2022-06-14,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,https://theheraldghana.com/monkeypox-cases-shoot-up-to-18-ghs/,2022-06-08,2022-06-23,,,GHA
+1515,confirmed,,,Ghana,,,,2022-06-14,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,https://theheraldghana.com/monkeypox-cases-shoot-up-to-18-ghs/,2022-06-08,2022-06-23,,,GHA
+1516,confirmed,,,Ghana,,,,2022-06-14,,,,,,,,,,,,,,,,,https://twitter.com/tv3_ghana/status/1534544477481844736,https://theheraldghana.com/monkeypox-cases-shoot-up-to-18-ghs/,2022-06-08,2022-06-23,,,GHA
 1517,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
 1518,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
 1519,confirmed,,,Portugal,15-64,male,,2022-06-08,,,,,,,,,,,,,,,,,https://www.jn.pt/nacional/portugal-com-191-casos-de-variola-dos-macacos-14925475.html,,2022-06-08,2022-06-08,,,PRT
@@ -2375,8 +2375,8 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 2374,confirmed,,,Australia,,,,2022-06-15,,,,,,,,,,,,,,,,,https://www.ecdc.europa.eu/en/news-events/epidemiological-update-monkeypox-multi-country-outbreak-15-june,,2022-06-16,2022-06-16,,,AUS
 2375,confirmed,,,Australia,,,,2022-06-15,,,,,,,,,,,,,,,,,https://www.ecdc.europa.eu/en/news-events/epidemiological-update-monkeypox-multi-country-outbreak-15-june,,2022-06-16,2022-06-16,,,AUS
 2376,confirmed,,,Australia,,,,2022-06-15,,,,,,,,,,,,,,,,,https://www.ecdc.europa.eu/en/news-events/epidemiological-update-monkeypox-multi-country-outbreak-15-june,,2022-06-16,2022-06-16,,,AUS
-2377,confirmed,,,Argentina,,,,2022-06-15,,,,,,,,,,,,,,,,,https://www.ecdc.europa.eu/en/news-events/epidemiological-update-monkeypox-multi-country-outbreak-15-june,,2022-06-16,2022-06-16,,,ARG
-2378,confirmed,,,Argentina,,,,2022-06-15,,,,,,,,,,,,,,,,,https://www.ecdc.europa.eu/en/news-events/epidemiological-update-monkeypox-multi-country-outbreak-15-june,,2022-06-16,2022-06-16,,,ARG
+2377,suspected,,,Argentina,,,,,,,,,,,,,,,,,,,,,https://www.ecdc.europa.eu/en/news-events/epidemiological-update-monkeypox-multi-country-outbreak-15-june,,2022-06-16,2022-06-23,,,ARG
+2378,suspected,,,Argentina,,,,,,,,,,,,,,,,,,,,,https://www.ecdc.europa.eu/en/news-events/epidemiological-update-monkeypox-multi-country-outbreak-15-june,,2022-06-16,2022-06-23,,,ARG
 2379,confirmed,,,Denmark,,,,2022-06-16,,,,,,,,,,,,,,,,,https://sum.dk/nyheder/2022/juni/et-yderligere-tilfaelde-af-abekopper-i-danmark,,2022-06-16,2022-06-16,,,DNK
 2380,confirmed,,,Denmark,,,,2022-06-16,,,,,,,,,,,,,,,,,https://sum.dk/nyheder/2022/juni/et-yderligere-tilfaelde-af-abekopper-i-danmark,,2022-06-16,2022-06-16,,,DNK
 2381,confirmed,,,Denmark,,,,2022-06-16,,,,,,,,,,,,,,,,,https://sum.dk/nyheder/2022/juni/et-yderligere-tilfaelde-af-abekopper-i-danmark,,2022-06-16,2022-06-16,,,DNK
@@ -3366,7 +3366,7 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 3365,confirmed,,,Portugal,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/304-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-21,2022-06-21,,,PRT
 3366,confirmed,,,Portugal,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/304-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-21,2022-06-21,,,PRT
 3367,confirmed,,,Portugal,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/304-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-21,2022-06-21,,,PRT
-3368,suspected,,Mendoza ,Argentina,,male,,,,,,Y,,,,,,Y,,,Spain,,,,https://www.elsol.com.ar/mendoza/viruela-de-mono-detectaron-el-primer-caso-sospechoso-en-mendoza,,2022-06-21,2022-06-21,,,ARG
+3368,confirmed,,Mendoza ,Argentina,,male,,2022-06-23,,,,Y,,,,,,Y,,,Spain,,,,https://www.elsol.com.ar/mendoza/viruela-de-mono-detectaron-el-primer-caso-sospechoso-en-mendoza,https://www.ellitoral.com/salud/viruela-de-mono-mendocino-nexo-epidemiologico-argentino-de-donde-vino-viaje-contagio-enfermedad-sintomas_0_33fs7KSbZz.html,2022-06-21,2022-06-23,,,ARG
 3369,confirmed,,Incheon,South Korea,30-39,,,2022-06-22,"Headache, mild fever, sore throat, lesions",Y,2022-06-21,,,,,,,Y,2022-06-21,,,Germany,,PCR and sequencing,https://n.news.naver.com/article/001/0013260602?sid=102,https://koreajoongangdaily.joins.com/2022/06/22/national/socialAffairs/Korea-monkeypox/20220622160147771.html,2022-06-21,2022-06-22,,,KOR
 3370,discarded,,Busan,South Korea,,,,,,,,,,,,,,,2022-06-20,,,,,,https://n.news.naver.com/article/001/0013260602?sid=102,https://koreajoongangdaily.joins.com/2022/06/22/national/socialAffairs/Korea-monkeypox/20220622160147771.html,2022-06-21,2022-06-22,,,KOR
 3371,confirmed,,,Singapore,40-44,male,2022-06-14,2022-06-20,"headache, fever, skin rashes",,,Y,,,,,,,,,,,,,https://mothership.sg/2022/06/monkeypox-case-singapore/,https://www.channelnewsasia.com/singapore/monkeypox-singapore-imported-case-flight-attendant-fever-rashes-moh-2760996,2022-06-21,2022-06-21,,,SGP
@@ -3727,10 +3727,10 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 3726,confirmed,,,Slovenia,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.nijz.si/sl/okuzbe-z-virusom-opicjih-koz-v-sloveniji,,2022-06-22,2022-06-22,,,SVN
 3727,suspected,Ceara,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
 3728,suspected,Ceara,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
-3729,suspected,Rio de Janeiro,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
-3730,suspected,Rio de Janeiro,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
-3731,suspected,Rio de Janeiro,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
-3732,suspected,Rio de Janeiro,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
+3729,discarded,Rio de Janeiro,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,2022-06-22,2022-06-23,,,BRA
+3730,discarded,Rio de Janeiro,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,2022-06-22,2022-06-23,,,BRA
+3731,discarded,Rio de Janeiro,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,2022-06-22,2022-06-23,,,BRA
+3732,discarded,Rio de Janeiro,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,2022-06-22,2022-06-23,,,BRA
 3733,suspected,Santa Catarina,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
 3734,suspected,Acre,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
 3735,suspected,Rio Grande do Sul,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
@@ -3754,3 +3754,215 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 3753,confirmed,,,Switzerland,,,,2022-06-22,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-22,2022-06-22,,,CHE
 3754,confirmed,,,Switzerland,,,,2022-06-22,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-22,2022-06-22,,,CHE
 3755,confirmed,,,Switzerland,,,,2022-06-22,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-22,2022-06-22,,,CHE
+3756,confirmed,Gauteng Province,,South Africa,30-34,male,,2022-06-22,,,,,,,,,,N,,,,,,,https://www.reuters.com/business/healthcare-pharmaceuticals/south-africa-confirms-first-monkeypox-case-health-minister-2022-06-23/,,2022-06-23,2022-06-23,,,ZAF
+3757,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3758,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3759,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3760,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3761,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3762,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3763,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3764,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3765,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3766,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3767,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3768,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3769,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3770,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3771,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3772,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3773,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3774,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3775,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3776,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3777,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3778,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3779,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3780,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3781,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3782,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3783,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3784,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3785,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3786,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3787,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3788,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3789,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3790,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3791,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3792,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3793,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3794,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3795,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3796,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3797,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3798,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3799,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3800,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3801,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3802,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3803,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3804,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3805,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3806,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3807,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3808,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3809,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3810,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3811,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3812,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3813,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3814,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3815,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3816,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3817,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3818,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3819,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3820,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3821,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3822,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3823,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3824,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3825,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3826,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3827,confirmed,,,Germany,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-23,2022-06-23,,,DEU
+3828,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3829,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3830,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3831,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3832,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3833,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3834,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3835,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3836,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3837,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3838,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3839,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3840,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3841,confirmed,,,Ireland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.hpsc.ie/news/title-22106-en.html,,2022-06-23,2022-06-23,,,IRL
+3842,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
+3843,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
+3844,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
+3845,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
+3846,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
+3847,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
+3848,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
+3849,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
+3850,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
+3851,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
+3852,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
+3853,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
+3854,suspected,Ceara,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,,2022-06-23,2022-06-23,,,BRA
+3855,suspected,Distrito Federal,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,,2022-06-23,2022-06-23,,,BRA
+3856,suspected,Espirito Santo,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,,2022-06-23,2022-06-23,,,BRA
+3857,confirmed,Sao Paulo,,Brazil,,,,2022-06-22,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,,2022-06-23,2022-06-23,,,BRA
+3858,confirmed,Sao Paulo,,Brazil,,,,2022-06-22,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,,2022-06-23,2022-06-23,,,BRA
+3859,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
+3860,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
+3861,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
+3862,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
+3863,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
+3864,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
+3865,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
+3866,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
+3867,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
+3868,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
+3869,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
+3870,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
+3871,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
+3872,confirmed,Auvergne-Rhone-Alpes,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3873,confirmed,Auvergne-Rhone-Alpes,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3874,confirmed,Auvergne-Rhone-Alpes,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3875,confirmed,Auvergne-Rhone-Alpes,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3876,confirmed,Auvergne-Rhone-Alpes,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3877,confirmed,Auvergne-Rhone-Alpes,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3878,confirmed,Auvergne-Rhone-Alpes,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3879,confirmed,Occitanie,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3880,confirmed,Occitanie,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3881,confirmed,Occitanie,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3882,confirmed,Occitanie,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3883,confirmed,Occitanie,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3884,confirmed,Occitanie,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3885,confirmed,PACA,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3886,confirmed,PACA,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3887,confirmed,Nouvelle-Aquitaine,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3888,confirmed,Nouvelle-Aquitaine,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3889,confirmed,Nouvelle-Aquitaine,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3890,confirmed,Pays de la Loire,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3891,confirmed,Hauts de France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3892,confirmed,Hauts de France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3893,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3894,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3895,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3896,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3897,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3898,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3899,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3900,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3901,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3902,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3903,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3904,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3905,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3906,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3907,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3908,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3909,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3910,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3911,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3912,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3913,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3914,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3915,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3916,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3917,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3918,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3919,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3920,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3921,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3922,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3923,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3924,confirmed,Ile-de-France,,France,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-juin-2022,,2022-06-23,2022-06-23,,,FRA
+3925,confirmed,,,Ghana,,,,2022-06-14,,,,,,,,,,,,,,,,,https://theheraldghana.com/monkeypox-cases-shoot-up-to-18-ghs/,,2022-06-23,2022-06-23,,,GHA
+3926,confirmed,,,Ghana,,,,2022-06-14,,,,,,,,,,,,,,,,,https://theheraldghana.com/monkeypox-cases-shoot-up-to-18-ghs/,,2022-06-23,2022-06-23,,,GHA
+3927,confirmed,,,Ghana,,,,2022-06-14,,,,,,,,,,,,,,,,,https://theheraldghana.com/monkeypox-cases-shoot-up-to-18-ghs/,,2022-06-23,2022-06-23,,,GHA
+3928,confirmed,,,Ghana,,,,2022-06-14,,,,,,,,,,,,,,,,,https://theheraldghana.com/monkeypox-cases-shoot-up-to-18-ghs/,,2022-06-23,2022-06-23,,,GHA
+3929,confirmed,,,Ghana,,,,2022-06-14,,,,,,,,,,,,,,,,,https://theheraldghana.com/monkeypox-cases-shoot-up-to-18-ghs/,,2022-06-23,2022-06-23,,,GHA
+3930,confirmed,,,Ghana,,,,2022-06-14,,,,,,,,,,,,,,,,,https://theheraldghana.com/monkeypox-cases-shoot-up-to-18-ghs/,,2022-06-23,2022-06-23,,,GHA
+3931,confirmed,,,Portugal,15-64,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/328-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-23,2022-06-23,,,PRT
+3932,confirmed,,,Portugal,15-64,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/328-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-23,2022-06-23,,,PRT
+3933,confirmed,,,Portugal,15-64,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/328-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-23,2022-06-23,,,PRT
+3934,confirmed,,,Portugal,15-64,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/328-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-23,2022-06-23,,,PRT
+3935,confirmed,,,Portugal,15-64,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/328-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-23,2022-06-23,,,PRT
+3936,confirmed,,,Portugal,15-64,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/328-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-23,2022-06-23,,,PRT
+3937,confirmed,,,Portugal,15-64,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/328-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-23,2022-06-23,,,PRT
+3938,confirmed,,,Portugal,15-64,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/328-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-23,2022-06-23,,,PRT
+3939,confirmed,,,Portugal,15-64,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/328-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-23,2022-06-23,,,PRT
+3940,confirmed,,,Portugal,15-64,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/328-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-23,2022-06-23,,,PRT
+3941,confirmed,,,Portugal,15-64,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/328-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-23,2022-06-23,,,PRT
+3942,confirmed,California,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3943,confirmed,California,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3944,confirmed,California,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3945,confirmed,California,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3946,confirmed,California,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3947,confirmed,California,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3948,confirmed,California,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3949,confirmed,California,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3950,confirmed,Colorado,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3951,confirmed,District of Columbia,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3952,confirmed,District of Columbia,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3953,confirmed,District of Columbia,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3954,confirmed,Massachusetts,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3955,confirmed,Massachusetts,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3956,confirmed,New York,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3957,confirmed,North Carolina,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3958,confirmed,Texas,,United States,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-23,2022-06-23,,,USA
+3959,confirmed,,,Switzerland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-23,2022-06-23,,,CHE
+3960,confirmed,,,Switzerland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-23,2022-06-23,,,CHE
+3961,confirmed,,,Switzerland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-23,2022-06-23,,,CHE
+3962,confirmed,,,Switzerland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-23,2022-06-23,,,CHE
+3963,confirmed,,,Switzerland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-23,2022-06-23,,,CHE
+3964,confirmed,,,Switzerland,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html#573159143,,2022-06-23,2022-06-23,,,CHE
+3965,confirmed,,,Sweden,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/apkoppor-internationellt-maj-2022-/,,2022-06-23,2022-06-23,,,SWE
+3966,confirmed,,,Sweden,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/apkoppor-internationellt-maj-2022-/,,2022-06-23,2022-06-23,,,SWE
+3967,confirmed,,,Sweden,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/apkoppor-internationellt-maj-2022-/,,2022-06-23,2022-06-23,,,SWE

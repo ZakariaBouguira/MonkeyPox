@@ -1,45 +1,46 @@
 Country,Date_confirmation,New_infected,Total_infected
-World,2022-06-22,160,3336
-Argentina,2022-06-22,0,5
-Australia,2022-06-22,0,13
-Austria,2022-06-22,0,12
-Belgium,2022-06-22,0,77
-Brazil,2022-06-22,0,9
-Canada,2022-06-22,0,210
-Chile,2022-06-22,0,3
-Czech Republic,2022-06-22,0,6
-Denmark,2022-06-22,1,13
-Finland,2022-06-22,0,4
-France,2022-06-22,0,277
-Georgia,2022-06-22,0,1
-Germany,2022-06-22,52,521
-Ghana,2022-06-22,0,5
-Gibraltar,2022-06-22,0,1
-Greece,2022-06-22,0,2
-Hungary,2022-06-22,0,6
-Iceland,2022-06-22,0,3
-Ireland,2022-06-22,0,14
-Israel,2022-06-22,2,13
-Italy,2022-06-22,0,72
-Latvia,2022-06-22,0,2
-Lebanon,2022-06-22,0,1
-Luxembourg,2022-06-22,0,1
-Malta,2022-06-22,0,2
-Mexico,2022-06-22,0,9
-Morocco,2022-06-22,0,1
-Netherlands,2022-06-22,72,167
-Norway,2022-06-22,0,2
-Poland,2022-06-22,0,12
-Portugal,2022-06-22,13,317
-Romania,2022-06-22,0,5
-Serbia,2022-06-22,0,1
-Singapore,2022-06-22,0,1
-Slovenia,2022-06-22,0,8
-South Korea,2022-06-22,1,1
-Spain,2022-06-22,0,520
-Sweden,2022-06-22,0,10
-Switzerland,2022-06-22,5,46
-United Arab Emirates,2022-06-22,0,13
-United Kingdom,2022-06-22,0,793
-United States,2022-06-22,14,156
-Venezuela,2022-06-22,0,1
+World,2022-06-23,189,3552
+Argentina,2022-06-23,1,4
+Australia,2022-06-23,0,13
+Austria,2022-06-23,0,12
+Belgium,2022-06-23,0,77
+Brazil,2022-06-23,0,11
+Canada,2022-06-23,13,223
+Chile,2022-06-23,0,3
+Czech Republic,2022-06-23,0,6
+Denmark,2022-06-23,0,13
+Finland,2022-06-23,0,4
+France,2022-06-23,53,330
+Georgia,2022-06-23,0,1
+Germany,2022-06-23,71,592
+Ghana,2022-06-23,0,18
+Gibraltar,2022-06-23,0,1
+Greece,2022-06-23,0,2
+Hungary,2022-06-23,0,6
+Iceland,2022-06-23,0,3
+Ireland,2022-06-23,14,28
+Israel,2022-06-23,0,13
+Italy,2022-06-23,0,85
+Latvia,2022-06-23,0,2
+Lebanon,2022-06-23,0,1
+Luxembourg,2022-06-23,0,1
+Malta,2022-06-23,0,2
+Mexico,2022-06-23,0,9
+Morocco,2022-06-23,0,1
+Netherlands,2022-06-23,0,167
+Norway,2022-06-23,0,2
+Poland,2022-06-23,0,12
+Portugal,2022-06-23,11,328
+Romania,2022-06-23,0,5
+Serbia,2022-06-23,0,1
+Singapore,2022-06-23,0,1
+Slovenia,2022-06-23,0,8
+South Africa,2022-06-23,0,1
+South Korea,2022-06-23,0,1
+Spain,2022-06-23,0,520
+Sweden,2022-06-23,3,13
+Switzerland,2022-06-23,6,52
+United Arab Emirates,2022-06-23,0,13
+United Kingdom,2022-06-23,0,793
+United States,2022-06-23,17,173
+Venezuela,2022-06-23,0,1
