@@ -1,29 +1,28 @@
 Country,Date_confirmation,New_infected,Total_infected
-World,2022-06-27,0,4119
+World,2022-06-27,116,4265
 Argentina,2022-06-27,0,4
 Australia,2022-06-27,0,13
 Austria,2022-06-27,0,20
 Belgium,2022-06-27,0,77
 Brazil,2022-06-27,0,11
-Bulgaria,2022-06-27,0,2
+Bulgaria,2022-06-27,1,3
 Canada,2022-06-27,0,235
 Chile,2022-06-27,0,3
 Colombia,2022-06-27,0,3
 Croatia,2022-06-27,0,1
 Czech Republic,2022-06-27,0,6
-Denmark,2022-06-27,0,13
+Denmark,2022-06-27,3,16
 Finland,2022-06-27,0,4
-France,2022-06-27,0,330
+France,2022-06-27,0,331
 Georgia,2022-06-27,0,1
-Germany,2022-06-27,0,676
+Germany,2022-06-27,89,765
 Ghana,2022-06-27,0,18
 Gibraltar,2022-06-27,0,1
-Greece,2022-06-27,0,2
-Greece ,2022-06-27,0,1
+Greece,2022-06-27,0,3
 Hungary,2022-06-27,0,12
 Iceland,2022-06-27,0,3
 Ireland,2022-06-27,0,28
-Israel,2022-06-27,0,16
+Israel,2022-06-27,6,22
 Italy,2022-06-27,0,127
 Latvia,2022-06-27,0,2
 Lebanon,2022-06-27,0,1
@@ -33,8 +32,9 @@ Mexico,2022-06-27,0,9
 Morocco,2022-06-27,0,1
 Netherlands,2022-06-27,0,211
 Norway,2022-06-27,0,4
+Peru,2022-06-27,0,1
 Poland,2022-06-27,0,12
-Portugal,2022-06-27,0,348
+Portugal,2022-06-27,17,365
 Romania,2022-06-27,0,5
 Serbia,2022-06-27,0,1
 Singapore,2022-06-27,0,1
@@ -47,5 +47,5 @@ Switzerland,2022-06-27,0,55
 Taiwan,2022-06-27,0,1
 United Arab Emirates,2022-06-27,0,13
 United Kingdom,2022-06-27,0,910
-United States,2022-06-27,0,173
+United States,2022-06-27,0,201
 Venezuela,2022-06-27,0,1
