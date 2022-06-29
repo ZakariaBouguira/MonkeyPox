@@ -3732,7 +3732,7 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 3731,discarded,Rio de Janeiro,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,2022-06-22,2022-06-23,,,BRA
 3732,discarded,Rio de Janeiro,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,2022-06-22,2022-06-23,,,BRA
 3733,suspected,Santa Catarina,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
-3734,suspected,Acre,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
+3734,suspected,Acre,,Brazil,30-34,male,,,"fever, adenomegaly, skin rash",,,Y,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,https://brazil.postsen.com/news/72506/Urgent-Acre-registers-first-suspected-case-of-monkeypox.html,2022-06-22,2022-06-27,,,BRA
 3735,suspected,Rio Grande do Sul,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
 3736,suspected,Rio Grande do Sul,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/o-ministerio-da-saude-foi-notificado-nesta-terca-feira-21-de-novo-caso-de-monkeypox,,2022-06-22,2022-06-22,,,BRA
 3737,confirmed,California,,United States,,,,2022-06-22,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-22,2022-06-22,,,USA
@@ -3853,8 +3853,8 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 3852,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
 3853,confirmed,,,Italy,,,,2022-06-21,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-23,2022-06-23,,,ITA
 3854,suspected,Ceara,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,,2022-06-23,2022-06-23,,,BRA
-3855,suspected,Distrito Federal,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,,2022-06-23,2022-06-23,,,BRA
-3856,suspected,Espirito Santo,,Brazil,,,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,,2022-06-23,2022-06-23,,,BRA
+3855,suspected,Distrito Federal,,Brazil,20-29,male,,,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,https://brazil.postsen.com/news/85519/DF-registers-first-suspected-case-of-monkeypox.html,2022-06-23,2022-06-27,,,BRA
+3856,suspected,"Grande Vitoria, Espirito Santo",,Brazil,40-44,male,,,"fever, skin rash",,2022-06-15,,,,,,,Y,2022-06-09,,Singapore,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,https://brazil.postsen.com/health/75482/ES-investigates-first-suspected-case-of-monkeypox.html,2022-06-23,2022-06-27,,,BRA
 3857,confirmed,Sao Paulo,,Brazil,,,,2022-06-22,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,,2022-06-23,2022-06-23,,,BRA
 3858,confirmed,Sao Paulo,,Brazil,,,,2022-06-22,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-31-22-06-22/view,,2022-06-23,2022-06-23,,,BRA
 3859,confirmed,Quebec,,Canada,,,,2022-06-23,,,,,,,,,,,,,,,,,https://globalnews.ca/news/8942536/quebec-monkeypox-cases-june-23-2022/,,2022-06-23,2022-06-23,,,CAN
@@ -4064,8 +4064,8 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 4063,confirmed,,,Germany,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-24,2022-06-24,,,DEU
 4064,confirmed,,,Germany,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-24,2022-06-24,,,DEU
 4065,confirmed,,,Germany,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-24,2022-06-24,,,DEU
-4066,confirmed,,,Bulgaria,,male,,2022-06-23,,,,,,,,,,Y,,,"Spain, Britain",,,,https://www.reuters.com/business/healthcare-pharmaceuticals/bulgaria-reports-first-monkeypox-cases-2022-06-23/,,2022-06-24,2022-06-24,,,BGR
-4067,confirmed,,,Bulgaria,,male,,2022-06-23,,,,,,,,,,Y,,,"Spain, Britain",,,,https://www.reuters.com/business/healthcare-pharmaceuticals/bulgaria-reports-first-monkeypox-cases-2022-06-23/,,2022-06-24,2022-06-24,,,BGR
+4066,confirmed,,,Bulgaria,40-44,male,,2022-06-23,,,,,,,,,,Y,,,"Spain, Britain",,,,https://www.reuters.com/business/healthcare-pharmaceuticals/bulgaria-reports-first-monkeypox-cases-2022-06-23/,https://bta.bg/en/news/bulgaria/287976--third-case-of-monkeypox-confirmed-in-bulgaria,2022-06-24,2022-06-24,,,BGR
+4067,confirmed,,,Bulgaria,40-44,male,,2022-06-23,,,,,,,,,,Y,,,"Spain, Britain",,,,https://www.reuters.com/business/healthcare-pharmaceuticals/bulgaria-reports-first-monkeypox-cases-2022-06-23/,https://bta.bg/en/news/bulgaria/287976--third-case-of-monkeypox-confirmed-in-bulgaria,2022-06-24,2022-06-24,,,BGR
 4068,confirmed,Emilia-Romagna,,Italy,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-24,2022-06-24,,,ITA
 4069,confirmed,Emilia-Romagna,,Italy,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-24,2022-06-24,,,ITA
 4070,confirmed,Emilia-Romagna,,Italy,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1,,2022-06-24,2022-06-24,,,ITA
@@ -4227,7 +4227,7 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 4226,confirmed,Andalusia,,Spain,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.sanidad.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/alertaMonkeypox/docs/Informe_de_situacion_MPX_20220624.pdf,https://sevilla.abc.es/andalucia/sevi-andalucia-supera-50-casos-viruela-mono-mayoria-malaga-202206211427_noticia.html,2022-06-24,2022-06-24,,,ESP
 4227,confirmed,Andalusia,,Spain,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.sanidad.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/alertaMonkeypox/docs/Informe_de_situacion_MPX_20220624.pdf,https://sevilla.abc.es/andalucia/sevi-andalucia-supera-50-casos-viruela-mono-mayoria-malaga-202206211427_noticia.html,2022-06-24,2022-06-24,,,ESP
 4228,confirmed,Andalusia,,Spain,,,,2022-06-23,,,,,,,,,,,,,,,,,https://www.sanidad.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/alertaMonkeypox/docs/Informe_de_situacion_MPX_20220624.pdf,,2022-06-24,2022-06-24,,,ESP
-4229,suspected,,,Fiji,,,,,,,,,,,,,,,,,,,,,https://www.health.gov.fj/23-06-2022/,,2022-06-24,2022-06-24,,,FJI
+4229,discarded,,,Fiji,,,,,,,,,,,,,,,,,,,,,https://www.health.gov.fj/23-06-2022/,https://www.fbcnews.com.fj/news/health/test-negative-for-third-suspected-monkeypox-case/,2022-06-24,2022-06-27,,,FJI
 4230,confirmed,,,Scotland,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.gov.uk/government/publications/monkeypox-outbreak-epidemiological-overview/monkeypox-outbreak-epidemiological-overview-24-june-2022,,2022-06-24,2022-06-24,,,GBR
 4231,confirmed,,,Scotland,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.gov.uk/government/publications/monkeypox-outbreak-epidemiological-overview/monkeypox-outbreak-epidemiological-overview-24-june-2022,,2022-06-24,2022-06-24,,,GBR
 4232,confirmed,,,Scotland,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.gov.uk/government/publications/monkeypox-outbreak-epidemiological-overview/monkeypox-outbreak-epidemiological-overview-24-june-2022,,2022-06-24,2022-06-24,,,GBR
@@ -4539,7 +4539,7 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 4538,confirmed,Texas,,United States,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-24,2022-06-24,,,USA
 4539,confirmed,Texas,,United States,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-24,2022-06-24,,,USA
 4540,confirmed,Virginia,,United States,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-24,2022-06-24,,,USA
-4541,confirmed,,,Bulgaria,,male,,2022-06-27,,,,,,,"Was a contact of one of the first confirmed cases in Bulgaria (IDs: 4066, 4067 )",,,,,,,,,,https://www.bta.bg/en/news/bulgaria/287976--third-case-of-monkeypox-confirmed-in-bulgaria,,2022-06-27,2022-06-27,,,BGR
+4541,confirmed,,,Bulgaria,25-29,male,,2022-06-27,,,,,,,"Was a contact of one of the first confirmed cases in Bulgaria (IDs: 4066, 4067 )",,,,,,,,,,https://www.bta.bg/en/news/bulgaria/287976--third-case-of-monkeypox-confirmed-in-bulgaria,,2022-06-27,2022-06-27,,,BGR
 4542,confirmed,,Lima,Peru,,male,2022-06-15,2022-06-26,,,,Y,,,,,,,,,,,,,https://elcomercio.pe/lima/sucesos/viruela-del-mono-ministro-de-salud-confirma-el-primer-caso-de-dicha-enfermedad-en-el-peru-minsa-ministerio-de-salud-jorge-lopez-rmmn-noticia/,,2022-06-27,2022-06-27,,,PER
 4543,confirmed,,,Germany,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-27,2022-06-27,,,DEU
 4544,confirmed,,,Germany,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Ausbruch-2022-Situation-Deutschland.html,,2022-06-27,2022-06-27,,,DEU
@@ -4658,3 +4658,116 @@ ID,Status,Location,City,Country,Age,Gender,Date_onset,Date_confirmation,Symptoms
 4657,confirmed,,,Portugal,15-64,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.dgs.pt/em-destaque/365-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx,,2022-06-27,2022-06-27,,,PRT
 4658,confirmed,île-de-France,,France,,,,2022-06-25,,,,,,,,,,,,,,,,,https://www.iledefrance.ars.sante.fr/premier-cas-confirme-de-monkeypox-chez-un-enfant-en-ile-de-france,,2022-06-27,2022-06-27,,,FRA
 4659,suspected,île-de-France,,France,,,,,,,,,,,This is a sibling of ID 4658,4658,,,,,,,,,https://www.iledefrance.ars.sante.fr/premier-cas-confirme-de-monkeypox-chez-un-enfant-en-ile-de-france,,2022-06-27,2022-06-27,,,FRA
+4660,confirmed,,,Luxembourg,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.wort.lu/fr/luxembourg/deux-nouveaux-cas-de-variole-du-singe-detecte-au-luxembourg-62b5f04bde135b9236025e39,,2022-06-27,2022-06-27,,,LUX
+4661,confirmed,,,Luxembourg,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.wort.lu/fr/luxembourg/deux-nouveaux-cas-de-variole-du-singe-detecte-au-luxembourg-62b5f04bde135b9236025e39,,2022-06-27,2022-06-27,,,LUX
+4662,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4663,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4664,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4665,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4666,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4667,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4668,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4669,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4670,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4671,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4672,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4673,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4674,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4675,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4676,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4677,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4678,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4679,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4680,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4681,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4682,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4683,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4684,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4685,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4686,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4687,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4688,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4689,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4690,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4691,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4692,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4693,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4694,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4695,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4696,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4697,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4698,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4699,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4700,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4701,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4702,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4703,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4704,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4705,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4706,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4707,confirmed,,,Netherlands,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.rivm.nl/monkeypox-apenpokken,,2022-06-27,2022-06-27,,,NLD
+4708,confirmed,,,Switzerland,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html,,2022-06-27,2022-06-27,,,CHE
+4709,confirmed,,,Switzerland,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html,,2022-06-27,2022-06-27,,,CHE
+4710,confirmed,,,Switzerland,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html,,2022-06-27,2022-06-27,,,CHE
+4711,confirmed,,,Switzerland,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html,,2022-06-27,2022-06-27,,,CHE
+4712,confirmed,,,Switzerland,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html,,2022-06-27,2022-06-27,,,CHE
+4713,confirmed,,,Switzerland,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html,,2022-06-27,2022-06-27,,,CHE
+4714,confirmed,,,Switzerland,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html,,2022-06-27,2022-06-27,,,CHE
+4715,confirmed,,,Switzerland,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html,,2022-06-27,2022-06-27,,,CHE
+4716,confirmed,,,Switzerland,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html,,2022-06-27,2022-06-27,,,CHE
+4717,confirmed,,,Switzerland,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html,,2022-06-27,2022-06-27,,,CHE
+4718,confirmed,,,Switzerland,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html,,2022-06-27,2022-06-27,,,CHE
+4719,confirmed,,,Switzerland,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html,,2022-06-27,2022-06-27,,,CHE
+4720,confirmed,,,Switzerland,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/affenpocken.html,,2022-06-27,2022-06-27,,,CHE
+4721,confirmed,Sao Paulo ,,Brazil,20-39,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/atualizacao-sobre-os-casos-de-monkeypox-no-brasil,,2022-06-27,2022-06-27,,,BRA
+4722,confirmed,Sao Paulo ,,Brazil,20-39,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/atualizacao-sobre-os-casos-de-monkeypox-no-brasil,,2022-06-27,2022-06-27,,,BRA
+4723,confirmed,Sao Paulo ,,Brazil,20-39,male,,2022-06-23,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/atualizacao-sobre-os-casos-de-monkeypox-no-brasil,,2022-06-27,2022-06-27,,,BRA
+4724,confirmed,Sao Paulo ,,Brazil,,,,2022-06-26,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa/notas-a-imprensa/2022/atualizacao-de-casos-confirmados-de-monkeypox-deste-domingo-26,,2022-06-27,2022-06-27,,,BRA
+4725,confirmed,Rio de Janeiro,,Brazil,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-33-24-06-22/view,,2022-06-27,2022-06-27,,,BRA
+4726,confirmed,Rio de Janeiro,,Brazil,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-33-24-06-22/view,,2022-06-27,2022-06-27,,,BRA
+4727,confirmed,Sao Paulo ,,Brazil,,,,2022-06-24,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-33-24-06-22/view,,2022-06-27,2022-06-27,,,BRA
+4728,confirmed,Sao Paulo ,,Brazil,,,,2022-06-25,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-34-25-06-22/view,,2022-06-27,2022-06-27,,,BRA
+4729,confirmed,Sao Paulo ,,Brazil,,,,2022-06-25,,,,,,,,,,,,,,,,,https://www.gov.br/saude/pt-br/composicao/svs/resposta-a-emergencias/sala-de-situacao-de-saude/sala-de-situacao-de-monkeypox/atualizacao-dos-casos-no-brasil/card-diario-no-34-25-06-22/view,,2022-06-27,2022-06-27,,,BRA
+4730,confirmed,California,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4731,confirmed,California,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4732,confirmed,California,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4733,confirmed,California,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4734,confirmed,California,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4735,confirmed,California,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4736,confirmed,California,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4737,confirmed,California,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4738,confirmed,California,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4739,confirmed,California,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4740,confirmed,California,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4741,confirmed,Colorado,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4742,confirmed,District of Columbia,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4743,confirmed,District of Columbia,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4744,confirmed,District of Columbia,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4745,confirmed,District of Columbia,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4746,confirmed,District of Columbia,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4747,confirmed,District of Columbia,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4748,confirmed,District of Columbia,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4749,confirmed,District of Columbia,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4750,confirmed,District of Columbia,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4751,confirmed,Florida,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4752,confirmed,Florida,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4753,confirmed,Florida,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4754,confirmed,Florida,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4755,confirmed,Florida,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4756,confirmed,Florida,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4757,confirmed,Florida,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4758,confirmed,Florida,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4759,confirmed,Florida,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4760,confirmed,Florida,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4761,confirmed,Florida,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4762,confirmed,Illinois,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4763,confirmed,Maryland,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4764,confirmed,Maryland,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4765,confirmed,Massachusetts,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4766,confirmed,Minnesota,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4767,confirmed,Nevada,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4768,confirmed,New York,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4769,confirmed,New York,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4770,confirmed,North Carolina,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4771,confirmed,Ohio,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
+4772,confirmed,Virginia,,United States,,,,2022-06-27,,,,,,,,,,,,,,,,,https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html,,2022-06-27,2022-06-27,,,USA
