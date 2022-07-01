@@ -1,7 +1,7 @@
 Country,Date_confirmation,New_infected,Total_infected
-World,2022-07-01,0,5399
+World,2022-07-01,33,5430
 Argentina,2022-07-01,0,6
-Australia,2022-07-01,0,14
+Australia,2022-07-01,0,12
 Austria,2022-07-01,0,20
 Belgium,2022-07-01,0,117
 Benin,2022-07-01,0,3
@@ -25,7 +25,7 @@ Hungary,2022-07-01,0,19
 Iceland,2022-07-01,0,3
 Ireland,2022-07-01,0,39
 Israel,2022-07-01,0,42
-Italy,2022-07-01,0,159
+Italy,2022-07-01,33,192
 Latvia,2022-07-01,0,2
 Lebanon,2022-07-01,0,1
 Luxembourg,2022-07-01,0,3
