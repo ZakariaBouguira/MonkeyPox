@@ -46,16 +46,16 @@ World,2022-06-18,1,2608
 World,2022-06-19,1,2609
 World,2022-06-20,290,2899
 World,2022-06-21,273,3172
-World,2022-06-22,166,3338
-World,2022-06-23,434,3772
-World,2022-06-24,331,4103
-World,2022-06-25,3,4106
-World,2022-06-26,168,4274
-World,2022-06-27,367,4641
-World,2022-06-28,364,5005
-World,2022-06-29,131,5136
-World,2022-06-30,261,5397
-World,2022-07-01,33,5430
+World,2022-06-22,167,3339
+World,2022-06-23,434,3773
+World,2022-06-24,331,4104
+World,2022-06-25,3,4107
+World,2022-06-26,168,4275
+World,2022-06-27,367,4642
+World,2022-06-28,365,5007
+World,2022-06-29,146,5153
+World,2022-06-30,420,5573
+World,2022-07-01,135,5708
 Argentina,2022-05-27,2,2
 Argentina,2022-05-28,0,2
 Argentina,2022-05-29,0,2
@@ -174,7 +174,7 @@ Austria,2022-06-27,0,20
 Austria,2022-06-28,0,20
 Austria,2022-06-29,0,20
 Austria,2022-06-30,0,20
-Austria,2022-07-01,0,20
+Austria,2022-07-01,17,37
 Belgium,2022-05-19,1,1
 Belgium,2022-05-20,2,3
 Belgium,2022-05-21,1,4
@@ -258,9 +258,9 @@ Brazil,2022-06-25,2,19
 Brazil,2022-06-26,1,20
 Brazil,2022-06-27,0,20
 Brazil,2022-06-28,1,21
-Brazil,2022-06-29,0,21
-Brazil,2022-06-30,0,21
-Brazil,2022-07-01,0,21
+Brazil,2022-06-29,15,36
+Brazil,2022-06-30,0,36
+Brazil,2022-07-01,0,36
 Bulgaria,2022-06-23,2,2
 Bulgaria,2022-06-24,0,2
 Bulgaria,2022-06-25,0,2
@@ -376,16 +376,16 @@ Czech Republic,2022-06-18,0,6
 Czech Republic,2022-06-19,0,6
 Czech Republic,2022-06-20,0,6
 Czech Republic,2022-06-21,0,6
-Czech Republic,2022-06-22,0,6
-Czech Republic,2022-06-23,0,6
-Czech Republic,2022-06-24,0,6
-Czech Republic,2022-06-25,0,6
-Czech Republic,2022-06-26,0,6
-Czech Republic,2022-06-27,0,6
-Czech Republic,2022-06-28,0,6
-Czech Republic,2022-06-29,0,6
-Czech Republic,2022-06-30,0,6
-Czech Republic,2022-07-01,0,6
+Czech Republic,2022-06-22,1,7
+Czech Republic,2022-06-23,0,7
+Czech Republic,2022-06-24,0,7
+Czech Republic,2022-06-25,0,7
+Czech Republic,2022-06-26,0,7
+Czech Republic,2022-06-27,0,7
+Czech Republic,2022-06-28,1,8
+Czech Republic,2022-06-29,0,8
+Czech Republic,2022-06-30,0,8
+Czech Republic,2022-07-01,0,8
 Denmark,2022-05-23,1,1
 Denmark,2022-05-24,1,2
 Denmark,2022-05-25,0,2
@@ -570,7 +570,7 @@ Germany,2022-06-27,145,763
 Germany,2022-06-28,65,828
 Germany,2022-06-29,35,863
 Germany,2022-06-30,106,969
-Germany,2022-07-01,0,969
+Germany,2022-07-01,85,1054
 Ghana,2022-06-08,5,5
 Ghana,2022-06-09,0,5
 Ghana,2022-06-10,0,5
@@ -1470,8 +1470,8 @@ United Kingdom,2022-06-26,166,1076
 United Kingdom,2022-06-27,0,1076
 United Kingdom,2022-06-28,0,1076
 United Kingdom,2022-06-29,0,1076
-United Kingdom,2022-06-30,0,1076
-United Kingdom,2022-07-01,0,1076
+United Kingdom,2022-06-30,159,1235
+United Kingdom,2022-07-01,0,1235
 United States,2022-05-18,1,1
 United States,2022-05-19,0,1
 United States,2022-05-20,1,2

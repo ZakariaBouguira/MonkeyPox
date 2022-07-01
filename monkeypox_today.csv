@@ -1,23 +1,23 @@
 Country,Date_confirmation,New_infected,Total_infected
-World,2022-07-01,33,5430
+World,2022-07-01,135,5708
 Argentina,2022-07-01,0,6
 Australia,2022-07-01,0,12
-Austria,2022-07-01,0,20
+Austria,2022-07-01,17,37
 Belgium,2022-07-01,0,117
 Benin,2022-07-01,0,3
-Brazil,2022-07-01,0,21
+Brazil,2022-07-01,0,36
 Bulgaria,2022-07-01,0,3
 Canada,2022-07-01,0,287
 Chile,2022-07-01,0,6
 Colombia,2022-07-01,0,3
 Croatia,2022-07-01,0,1
-Czech Republic,2022-07-01,0,6
+Czech Republic,2022-07-01,0,8
 Denmark,2022-07-01,0,18
 Estonia,2022-07-01,0,1
 Finland,2022-07-01,0,4
 France,2022-07-01,0,498
 Georgia,2022-07-01,0,1
-Germany,2022-07-01,0,969
+Germany,2022-07-01,85,1054
 Ghana,2022-07-01,0,18
 Gibraltar,2022-07-01,0,1
 Greece,2022-07-01,0,3
@@ -50,6 +50,6 @@ Switzerland,2022-07-01,0,83
 Taiwan,2022-07-01,0,1
 Turkey,2022-07-01,0,1
 United Arab Emirates,2022-07-01,0,13
-United Kingdom,2022-07-01,0,1076
+United Kingdom,2022-07-01,0,1235
 United States,2022-07-01,0,395
 Venezuela,2022-07-01,0,1
